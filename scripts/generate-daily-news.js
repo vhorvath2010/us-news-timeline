@@ -16,7 +16,6 @@ const parser = new Parser({ timeout: 15000 });
 const FEEDS = [
   // Broad, reputable U.S. politics RSS feeds
   'https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml',
-  'http://rss.cnn.com/rss/cnn_allpolitics.rss',
   'https://feeds.nbcnews.com/nbcnews/public/politics',
 ];
 
