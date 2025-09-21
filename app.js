@@ -28,7 +28,7 @@ const formatMetaLine = (day) => {
     return "";
   }
   if (day.weekday && day.descriptor) {
-    return `${day.weekday} · ${day.descriptor}`;
+    return `${day.weekday} � ${day.descriptor}`;
   }
   return day.weekday || day.descriptor || "";
 };
@@ -43,7 +43,7 @@ const renderDetails = (day) => {
           <h3>${event.title}</h3>
           <p>${event.summary}</p>
           <a href="${event.url}" target="_blank" rel="noopener noreferrer">
-            View source · ${event.source}
+            View source � ${event.source}
           </a>
         </article>
       `
@@ -75,8 +75,17 @@ const handleDaySelect = (day, button) => {
   renderDetails(day);
 };
 
+const scrollTimelineToEnd = () => {
+  requestAnimationFrame(() => {
+    const maxScrollLeft = timelineContainer.scrollWidth - timelineContainer.clientWidth;
+    timelineContainer.scrollLeft = maxScrollLeft > 0 ? maxScrollLeft : 0;
+  });
+};
+
 const renderTimeline = () => {
   let initialButton = null;
+
+  timelineContainer.innerHTML = "";
 
   timelineSequence.forEach((day, index) => {
     const isNewest = index === timelineSequence.length - 1;
@@ -107,6 +116,8 @@ const renderTimeline = () => {
   if (initialButton) {
     handleDaySelect(timelineSequence[timelineSequence.length - 1], initialButton);
   }
+
+  scrollTimelineToEnd();
 };
 
 // Initialize the timeline
