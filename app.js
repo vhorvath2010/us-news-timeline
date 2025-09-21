@@ -28,7 +28,7 @@ const formatMetaLine = (day) => {
     return "";
   }
   if (day.weekday && day.descriptor) {
-    return `${day.weekday} � ${day.descriptor}`;
+    return `${day.weekday} | ${day.descriptor}`;
   }
   return day.weekday || day.descriptor || "";
 };
@@ -43,7 +43,7 @@ const renderDetails = (day) => {
           <h3>${event.title}</h3>
           <p>${event.summary}</p>
           <a href="${event.url}" target="_blank" rel="noopener noreferrer">
-            View source � ${event.source}
+            View source | ${event.source}
           </a>
         </article>
       `
