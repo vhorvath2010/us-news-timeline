@@ -57,8 +57,3 @@ jobs:
           add-paths: |
             timeline-data.json
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Echo PR URL
-        if: steps.cpr.outputs.pull-request-url
-        run: |
-          echo "PR: ${{ steps.cpr.outputs.pull-request-url }}"
