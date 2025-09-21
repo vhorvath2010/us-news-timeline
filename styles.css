@@ -30,9 +30,6 @@ body {
   overflow-x: hidden;
   display: flex;
   flex-direction: column;
-  /* Firefox scrollbar styling */
-  scrollbar-width: thin;
-  scrollbar-color: rgba(56, 189, 248, 0.4) transparent;
 }
 
 .app-header {
@@ -82,9 +79,8 @@ body {
 
 .timeline-shell {
   position: relative;
-  padding: 0 0 1.5rem;
+  padding-bottom: 1.5rem;
   overflow: hidden;
-  width: 100%;
 }
 
 .timeline-shell::after {
@@ -101,16 +97,11 @@ body {
   gap: 1.5rem;
   overflow-x: auto;
   overflow-y: hidden;
-  padding-bottom: 2.5rem;
-  padding-top: 0.5rem;
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
+  padding: 0.5rem 0.5rem 2.5rem;
   scroll-snap-type: x proximity;
-  width: 100%;
-  max-width: 100%;
 }
 
-/* Global scrollbar styling */
+/* Scrollbar styling */
 ::-webkit-scrollbar {
   width: 6px;
   height: 6px;
@@ -138,52 +129,6 @@ body {
 * {
   scrollbar-width: thin;
   scrollbar-color: rgba(56, 189, 248, 0.4) transparent;
-}
-
-/* Site container scrollbar styling */
-.site-container::-webkit-scrollbar {
-  width: 6px;
-}
-
-.site-container::-webkit-scrollbar-track {
-  background: transparent;
-}
-
-.site-container::-webkit-scrollbar-thumb {
-  background: rgba(56, 189, 248, 0.4);
-  border-radius: 999px;
-  transition: background 0.2s ease;
-}
-
-.site-container::-webkit-scrollbar-thumb:hover {
-  background: rgba(56, 189, 248, 0.6);
-}
-
-.site-container::-webkit-scrollbar-thumb:active {
-  background: rgba(56, 189, 248, 0.8);
-}
-
-/* Details panel specific scrollbar styling */
-.details-panel::-webkit-scrollbar {
-  width: 6px;
-}
-
-.details-panel::-webkit-scrollbar-track {
-  background: transparent;
-}
-
-.details-panel::-webkit-scrollbar-thumb {
-  background: rgba(56, 189, 248, 0.4);
-  border-radius: 999px;
-  transition: background 0.2s ease;
-}
-
-.details-panel::-webkit-scrollbar-thumb:hover {
-  background: rgba(56, 189, 248, 0.6);
-}
-
-.details-panel::-webkit-scrollbar-thumb:active {
-  background: rgba(56, 189, 248, 0.8);
 }
 
 .timeline-node {
@@ -256,9 +201,6 @@ body {
   box-shadow: var(--shadow);
   overflow-y: auto;
   max-height: 70vh;
-  /* Firefox scrollbar styling */
-  scrollbar-width: thin;
-  scrollbar-color: rgba(56, 189, 248, 0.4) transparent;
 }
 
 .details-panel .day-header {
@@ -275,7 +217,6 @@ body {
 
 .details-panel .day-header span {
   color: var(--text-muted);
-  font-size: 1rem;
 }
 
 .details-panel .lead {
