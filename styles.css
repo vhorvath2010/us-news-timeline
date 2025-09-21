@@ -72,6 +72,8 @@ body {
 .timeline-shell {
   position: relative;
   padding: 0 0 1.5rem;
+  overflow: hidden;
+  width: 100%;
 }
 
 .timeline-shell::after {
@@ -87,24 +89,44 @@ body {
   display: flex;
   gap: 1.5rem;
   overflow-x: auto;
+  overflow-y: hidden;
   padding-bottom: 2rem;
   padding-top: 0.5rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
   scroll-snap-type: x proximity;
+  width: 100%;
+  max-width: 100%;
+}
+
+/* Global scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(56, 189, 248, 0.4);
+  border-radius: 999px;
+  transition: background 0.2s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(56, 189, 248, 0.6);
+}
+
+::-webkit-scrollbar-thumb:active {
+  background: rgba(56, 189, 248, 0.8);
+}
+
+/* Firefox scrollbar styling */
+* {
   scrollbar-width: thin;
-}
-
-.timeline-scroll::-webkit-scrollbar {
-  height: 8px;
-}
-
-.timeline-scroll::-webkit-scrollbar-track {
-  background: rgba(15, 23, 42, 0.6);
-  border-radius: 999px;
-}
-
-.timeline-scroll::-webkit-scrollbar-thumb {
-  background: rgba(56, 189, 248, 0.45);
-  border-radius: 999px;
+  scrollbar-color: rgba(56, 189, 248, 0.4) transparent;
 }
 
 .timeline-node {
