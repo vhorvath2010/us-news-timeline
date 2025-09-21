@@ -17,12 +17,22 @@
 
 body {
   margin: 0;
-  min-height: 100vh;
+  height: 100vh;
   font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
   background: var(--bg);
   color: var(--text-primary);
+  overflow: hidden;
+}
+
+.site-container {
+  height: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
   display: flex;
   flex-direction: column;
+  /* Firefox scrollbar styling */
+  scrollbar-width: thin;
+  scrollbar-color: rgba(56, 189, 248, 0.4) transparent;
 }
 
 .app-header {
@@ -67,6 +77,7 @@ body {
   display: grid;
   gap: 2.5rem;
   padding: 0 5vw 3rem;
+  flex: 1;
 }
 
 .timeline-shell {
@@ -127,6 +138,52 @@ body {
 * {
   scrollbar-width: thin;
   scrollbar-color: rgba(56, 189, 248, 0.4) transparent;
+}
+
+/* Site container scrollbar styling */
+.site-container::-webkit-scrollbar {
+  width: 6px;
+}
+
+.site-container::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.site-container::-webkit-scrollbar-thumb {
+  background: rgba(56, 189, 248, 0.4);
+  border-radius: 999px;
+  transition: background 0.2s ease;
+}
+
+.site-container::-webkit-scrollbar-thumb:hover {
+  background: rgba(56, 189, 248, 0.6);
+}
+
+.site-container::-webkit-scrollbar-thumb:active {
+  background: rgba(56, 189, 248, 0.8);
+}
+
+/* Details panel specific scrollbar styling */
+.details-panel::-webkit-scrollbar {
+  width: 6px;
+}
+
+.details-panel::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.details-panel::-webkit-scrollbar-thumb {
+  background: rgba(56, 189, 248, 0.4);
+  border-radius: 999px;
+  transition: background 0.2s ease;
+}
+
+.details-panel::-webkit-scrollbar-thumb:hover {
+  background: rgba(56, 189, 248, 0.6);
+}
+
+.details-panel::-webkit-scrollbar-thumb:active {
+  background: rgba(56, 189, 248, 0.8);
 }
 
 .timeline-node {
@@ -197,6 +254,11 @@ body {
   flex-direction: column;
   gap: 1.75rem;
   box-shadow: var(--shadow);
+  overflow-y: auto;
+  max-height: 70vh;
+  /* Firefox scrollbar styling */
+  scrollbar-width: thin;
+  scrollbar-color: rgba(56, 189, 248, 0.4) transparent;
 }
 
 .details-panel .day-header {

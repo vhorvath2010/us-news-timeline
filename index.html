@@ -7,35 +7,33 @@
     <link rel="stylesheet" href="styles.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
-      rel="stylesheet"
-    />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
   </head>
   <body>
-    <header class="app-header">
-      <div>
-        <h1>US Political News Timeline</h1>
-        <p>
-          Explore major political headlines day-by-day. Scroll horizontally, tap a
-          day to see that day's biggest stories, and follow links to read the
-          original reporting.
-        </p>
-      </div>
-      <button class="cta-button" type="button">Give Feedback</button>
-    </header>
+    <div class="site-container">
+      <header class="app-header">
+        <div>
+          <h1>US Political News Timeline</h1>
+          <p>
+            Explore major political headlines day-by-day. Scroll horizontally, tap a day to see that day's biggest
+            stories, and follow links to read the original reporting.
+          </p>
+        </div>
+        <button class="cta-button" type="button">Give Feedback</button>
+      </header>
 
-    <main class="layout">
-      <section class="timeline-shell" aria-label="Timeline of political news days">
-        <div class="timeline-scroll" id="timeline" role="list"></div>
-      </section>
+      <main class="layout">
+        <section class="timeline-shell" aria-label="Timeline of political news days">
+          <div class="timeline-scroll" id="timeline" role="list"></div>
+        </section>
 
-      <section class="details-panel" id="details-panel" aria-live="polite"></section>
-    </main>
+        <section class="details-panel" id="details-panel" aria-live="polite"></section>
+      </main>
 
-    <footer class="app-footer">
-      <p>Mock data only · Built for early UX feedback</p>
-    </footer>
+      <footer class="app-footer">
+        <p>Mock data only · Built for early UX feedback</p>
+      </footer>
+    </div>
 
     <script type="module" src="app.js"></script>
   </body>
