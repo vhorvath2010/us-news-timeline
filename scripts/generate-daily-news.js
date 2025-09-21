@@ -18,7 +18,6 @@ const FEEDS = [
   'https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml',
   'http://rss.cnn.com/rss/cnn_allpolitics.rss',
   'https://feeds.nbcnews.com/nbcnews/public/politics',
-  'https://thehill.com/feed/',
 ];
 
 const MAX_EVENTS = Number(process.env.NEWS_MAX_EVENTS || 3);
