@@ -1,0 +1,14 @@
+{
+  "name": "news-timeline",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static US political news timeline with daily ingestion pipeline",
+  "type": "commonjs",
+  "scripts": {
+    "ingest": "node scripts/generate-daily-news.js",
+    "ingest:dry": "set NEWS_MAX_EVENTS=3 && node scripts/generate-daily-news.js || true"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
