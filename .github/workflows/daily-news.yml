@@ -2,7 +2,7 @@ name: Daily News Ingestion
 
 on:
   schedule:
-    - cron: "15 9 * * *" # 09:15 UTC ~ 04:15 ET/05:15 EDT, to catch full previous day
+    - cron: "15 2 * * *" # 02:15 UTC ~ 21:15/22:15 ET depending on DST; gathers same-day items
   workflow_dispatch: {}
 
 permissions:

@@ -30,16 +30,15 @@ function getEasternParts(date) {
   return { year: Number(parts.year), month: Number(parts.month), day: Number(parts.day) };
 }
 
-function getYesterdayEastern() {
+function getTodayEastern() {
   const now = new Date();
-  const todayParts = getEasternParts(now);
-  // Construct a stable UTC date from Eastern today parts, then subtract 1 day
-  const todayUtcFromEastern = new Date(Date.UTC(todayParts.year, todayParts.month - 1, todayParts.day, 12));
-  const yestUtc = new Date(todayUtcFromEastern.getTime() - 24 * 60 * 60 * 1000);
-  const yestParts = getEasternParts(yestUtc);
-  // Build a stable date for formatting weekday (noon UTC to avoid boundary issues)
-  const yestMiddayUtc = new Date(Date.UTC(yestParts.year, yestParts.month - 1, yestParts.day, 12));
-  return { parts: yestParts, dateForWeekday: yestMiddayUtc };
+  const parts = getEasternParts(now);
+  const middayUtc = new Date(Date.UTC(parts.year, parts.month - 1, parts.day, 12));
+  return { parts, dateForWeekday: middayUtc };
+}
+
+function getTargetEastern() {
+  return getTodayEastern();
 }
 
 function formatDateLabelFromParts(parts) {
@@ -128,7 +127,7 @@ async function fetchAllFeedItems() {
   return items;
 }
 
-function pickTopForYesterday(allItems, targetDateEastern) {
+function pickTopForDay(allItems, targetDateEastern) {
   const yItems = allItems.filter(i => sameDayEastern(i.pubDate, targetDateEastern));
   // Sort by recency
   yItems.sort((a, b) => b.pubDate.getTime() - a.pubDate.getTime());
@@ -192,8 +191,8 @@ async function writeTimeline(data) {
 }
 
 async function main() {
-  const { parts: yParts, dateForWeekday } = getYesterdayEastern();
-  const id = toIdFromParts(yParts);
+  const { parts: targetParts, dateForWeekday } = getTargetEastern();
+  const id = toIdFromParts(targetParts);
 
   const timeline = await readTimeline();
   const exists = timeline.some(d => d && d.id === id);
@@ -206,16 +205,16 @@ async function main() {
 
   console.log('[info] Fetching RSS feeds…');
   const allItems = await fetchAllFeedItems();
-  const picked = pickTopForYesterday(allItems, dateForWeekday);
+  const picked = pickTopForDay(allItems, dateForWeekday);
 
   if (picked.length === 0) {
-    console.log('[warn] No items found for yesterday. No changes.');
+    console.log('[warn] No items found for today. No changes.');
     console.log('[done] Finished daily news generation.');
     setImmediate(() => process.exit(0));
     return;
   }
 
-  const entry = buildTimelineEntry(yParts, dateForWeekday, picked);
+  const entry = buildTimelineEntry(targetParts, dateForWeekday, picked);
   const updated = [...timeline, entry];
 
   // Keep file deterministic: sort by id ascending (app also sorts on load, but we keep data tidy)
