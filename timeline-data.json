@@ -27,5 +27,34 @@
         "url": "https://www.nbcnews.com/politics/trump-administration/trump-publicly-pushes-attorney-general-pam-bondi-go-political-foes-rcna232669"
       }
     ]
+  },
+  {
+    "id": "2025-09-21",
+    "dateLabel": "Sep 21, 2025",
+    "weekday": "Sunday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Trump looms over New Jersey's race for governor as candidates clash in their first debate",
+    "snippet": "Voters in New Jersey may not be see the president on the ballot when they select their next governor in November, but President Donald Trump still looms over t…",
+    "lead": "Voters in New Jersey may not be see the president on the ballot when they select their next governor in November, but President Donald Trump still looms over the race, with the candidates clashing over his administration’s policies in their first debate.",
+    "events": [
+      {
+        "title": "Trump looms over New Jersey's race for governor as candidates clash in their first debate",
+        "summary": "Voters in New Jersey may not be see the president on the ballot when they select their next governor in November, but President Donald Trump still looms over the race, with the candidates clashing ov…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/elections/trump-looms-new-jerseys-race-governor-candidates-clash-first-debate-rcna231893"
+      },
+      {
+        "title": "12 Emotional Hours: A Spectator Reflects on One Full Day (Without Caffeine)",
+        "summary": "Attending Charlie Kirk’s memorial involved lots of standing, worrying and waiting. But for one Colorado Springs woman, it was all worth it.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/09/21/us/politics/spectator-long-day.html"
+      },
+      {
+        "title": "The H-1B Visa: Why Is Trump Adding a $100,000 Fee?",
+        "summary": "President Trump signed a proclamation on Friday adding a $100,000 fee to visas for skilled foreign workers. Immigration hard-liners have criticized the program for replacing American workers.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/09/20/us/politics/h1b-visa-trump-immigration.html"
+      }
+    ]
   }
 ]
