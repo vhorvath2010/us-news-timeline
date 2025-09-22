@@ -27,5 +27,34 @@
         "url": "https://www.nbcnews.com/politics/trump-administration/trump-publicly-pushes-attorney-general-pam-bondi-go-political-foes-rcna232669"
       }
     ]
+  },
+  {
+    "id": "2025-09-21",
+    "dateLabel": "Sep 21, 2025",
+    "weekday": "Sunday",
+    "descriptor": "Top Stories",
+    "topHeadline": "The H-1B Visa: Why Is Trump Adding a $100,000 Fee?",
+    "snippet": "President Trump signed a proclamation on Friday adding a $100,000 fee to visas for skilled foreign workers. Immigration hard-liners have criticized the program…",
+    "lead": "President Trump signed a proclamation on Friday adding a $100,000 fee to visas for skilled foreign workers. Immigration hard-liners have criticized the program for replacing American workers.",
+    "events": [
+      {
+        "title": "The H-1B Visa: Why Is Trump Adding a $100,000 Fee?",
+        "summary": "President Trump signed a proclamation on Friday adding a $100,000 fee to visas for skilled foreign workers. Immigration hard-liners have criticized the program for replacing American workers.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/09/20/us/politics/h1b-visa-trump-immigration.html"
+      },
+      {
+        "title": "Charlie Kirk honored by Trump & Republican leaders at memorial service",
+        "summary": "President Trump joined thousands of supporters at State Farm Stadium in Arizona to honor the life and legacy of conservative activist Charlie Kirk nearly two weeks after he was assassinated. NBC News…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/video/charlie-kirk-honored-by-trump-republican-leaders-at-memorial-service-248036421771"
+      },
+      {
+        "title": "Trump and Musk Are Seen Together at Kirk Memorial, Months After Falling-Out",
+        "summary": "The meeting came just three months after Mr. Musk exited the government in a fit of rage, attacking the president on social media.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/09/21/us/politics/trump-musk-kirk-memrorial.html"
+      }
+    ]
   }
 ]
