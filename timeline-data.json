@@ -56,5 +56,34 @@
         "url": "https://www.nytimes.com/2025/09/20/us/politics/h1b-visa-trump-immigration.html"
       }
     ]
+  },
+  {
+    "id": "2025-09-22",
+    "dateLabel": "Sep 22, 2025",
+    "weekday": "Monday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Pennsylvania man charged with forcing immigrant teens to work on farm",
+    "snippet": "Pennsylvania authorities have charged a man with allegedly bringing two teenaged girls into the U.S. from Mexico and Guatemala and then forcing them to work on…",
+    "lead": "Pennsylvania authorities have charged a man with allegedly bringing two teenaged girls into the U.S. from Mexico and Guatemala and then forcing them to work on a farm for little or no pay, the state attorney general said Monday",
+    "events": [
+      {
+        "title": "Pennsylvania man charged with forcing immigrant teens to work on farm",
+        "summary": "Pennsylvania authorities have charged a man with allegedly bringing two teenaged girls into the U.S. from Mexico and Guatemala and then forcing them to work on a farm for little or no pay, the state…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/immigration/pennsylvania-man-charged-forcing-immigrant-teens-work-farm-rcna233107"
+      },
+      {
+        "title": "For Trump, Who Has ‘Strong Feelings’ About Autism, the Issue Is Personal",
+        "summary": "The president delivered impassioned — if scientifically dubious — remarks about what he described as one of “the most alarming public health developments in history.”",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/09/22/us/politics/autism-vaccines-trump-personal.html"
+      },
+      {
+        "title": "Mamdani Lands Endorsement From Kamala Harris, His Biggest Yet",
+        "summary": "“I support the Democrat in the race,” Ms. Harris said during an interview with Rachel Maddow. She added of the Democratic Party, “we’ve got a big tent and we’ve got a lot of stars.”",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/09/22/us/politics/kamala-harris-endorsement-zohran-mamdani.html"
+      }
+    ]
   }
 ]
