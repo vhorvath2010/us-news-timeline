@@ -87,6 +87,41 @@
     ]
   },
   {
+    "id": "2025-09-23",
+    "dateLabel": "Sep 23, 2025",
+    "weekday": "Tuesday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Trump Cancels Meeting with Democrats, Bringing Shutdown Closer",
+    "snippet": "President Trump canceled a planned meeting with congressional Democrats ahead of the looming government funding deadline, escalating the risk of a shutdown. :contentReference[oaicite:1]{index=1}",
+    "lead": "President Trump canceled a planned meeting with congressional Democrats ahead of the looming government funding deadline, escalating the risk of a shutdown. :contentReference[oaicite:2]{index=2}",
+    "events": [
+      {
+        "title": "Trump Cancels Meeting with Democrats, Bringing Shutdown Closer",
+        "summary": "Trump cited “unserious and ridiculous” demands by Democrats, calling off a crucial meeting meant to negotiate spending before the fiscal year ends September 30. :contentReference[oaicite:3]{index=3}",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/business/2025/09/23/trump-cancels-democrat-meeting-shutdown/"
+      },
+      {
+        "title": "Trump Scraps Meeting with Democrats, Raising Government Shutdown Risk",
+        "summary": "By canceling talks with top Democrats, Trump intensifies the standoff over funding and raises stakes for a partial government shutdown. :contentReference[oaicite:4]{index=4}",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/trump-scraps-meeting-with-democrats-funding-us-shutdown-looms-2025-09-23/"
+      },
+      {
+        "title": "At UN, President Trump Champions Sovereignty, Rejects Globalism",
+        "summary": "In his address to the 80th session of the UN General Assembly, Trump pushed back against globalism and framed a vision of sovereign nations resisting interference. :contentReference[oaicite:5]{index=5}",
+        "source": "White House (official)",
+        "url": "https://www.whitehouse.gov/articles/2025/09/at-un-president-trump-champions-sovereignty-rejects-globalism/"
+      },
+      {
+        "title": "Trump Claims Acetaminophen Use Linked to Autism, Draws Backlash",
+        "summary": "Trump advised pregnant women to limit use of acetaminophen, claiming it raises autism risk—remarks swiftly denounced by medical experts as unscientific. :contentReference[oaicite:6]{index=6}",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2025/sep/23/trump-administration-news-tylenol-paracetamol-updates-today"
+      }
+    ]
+  },
+  {
     "id": "2025-09-24",
     "dateLabel": "Sep 24, 2025",
     "weekday": "Wednesday",
