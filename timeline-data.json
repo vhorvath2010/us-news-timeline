@@ -149,5 +149,34 @@
         "url": "https://www.nytimes.com/2025/09/24/us/politics/government-shutdown-us-economy.html"
       }
     ]
+  },
+  {
+    "id": "2025-09-25",
+    "dateLabel": "Sep 25, 2025",
+    "weekday": "Thursday",
+    "descriptor": "Top Stories",
+    "topHeadline": "What's next for James Comey after his indictment?",
+    "snippet": "Former FBI Director James Comey will need to hire a defense attorney who will receive all the discovery materials from the grand jury case. NBC News' Laura Jar…",
+    "lead": "Former FBI Director James Comey will need to hire a defense attorney who will receive all the discovery materials from the grand jury case. NBC News' Laura Jarrett reports that Comey will likely file a motion to dismiss.",
+    "events": [
+      {
+        "title": "What's next for James Comey after his indictment?",
+        "summary": "Former FBI Director James Comey will need to hire a defense attorney who will receive all the discovery materials from the grand jury case. NBC News' Laura Jarrett reports that Comey will likely file…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/video/what-s-next-for-james-comey-after-his-indictment-248371269855"
+      },
+      {
+        "title": "Right-wing terror attacks plunged in 2025, while left-wing attacks ticked up: study",
+        "summary": "From 2011 through 2024, an average of 20 right-wing terror incidents took place each year, compared to an average of nearly three left-wing incidents annually.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/politics-news/right-wing-terror-attacks-plunged-2025-left-wing-attacks-ticked-study-rcna233704"
+      },
+      {
+        "title": "Trump’s pick of former attorney in Virginia fuels concerns over political influence",
+        "summary": "President Trump appointed former personal attorney Lindsey Halligan as U.S. attorney in Virginia after a veteran prosecutor resigned over resisting charges against James Comey. The move has raised co…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/video/trump-s-pick-of-former-attorney-in-virginia-fuels-concerns-over-political-influence-248370245987"
+      }
+    ]
   }
 ]
