@@ -178,5 +178,34 @@
         "url": "https://www.nbcnews.com/video/trump-s-pick-of-former-attorney-in-virginia-fuels-concerns-over-political-influence-248370245987"
       }
     ]
+  },
+  {
+    "id": "2025-09-26",
+    "dateLabel": "Sep 26, 2025",
+    "weekday": "Friday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Judge in Comey Case Has Presided Over Other Politically Fraught Proceedings",
+    "snippet": "Judge Michael S. Nachmanoff, a Biden appointee, previously handled the 2019 arraignment of two associates of Rudolph W. Giuliani, among other high-profile case…",
+    "lead": "Judge Michael S. Nachmanoff, a Biden appointee, previously handled the 2019 arraignment of two associates of Rudolph W. Giuliani, among other high-profile cases.",
+    "events": [
+      {
+        "title": "Judge in Comey Case Has Presided Over Other Politically Fraught Proceedings",
+        "summary": "Judge Michael S. Nachmanoff, a Biden appointee, previously handled the 2019 arraignment of two associates of Rudolph W. Giuliani, among other high-profile cases.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/09/26/us/politics/james-comey-indictment-judge.html"
+      },
+      {
+        "title": "Trump Expands Tariffs Beyond Supreme Court’s Reach",
+        "summary": "The president’s tariffs on foreign drugs and furniture rely on national security laws outside the scope of current lawsuits.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/09/26/us/politics/trump-tariffs-supreme-court.html"
+      },
+      {
+        "title": "Summoned U.S. Military Officers Are Expected to Hear a ‘Rally the Troops’ Message",
+        "summary": "Several generals and admirals said the unusual meeting in the Washington area called by Defense Secretary Pete Hegseth would be both disruptive and expensive.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/09/26/us/politics/hegseth-military-summit.html"
+      }
+    ]
   }
 ]
