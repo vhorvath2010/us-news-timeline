@@ -178,5 +178,34 @@
         "url": "https://www.nbcnews.com/video/trump-s-pick-of-former-attorney-in-virginia-fuels-concerns-over-political-influence-248370245987"
       }
     ]
+  },
+  {
+    "id": "2025-09-26",
+    "dateLabel": "Sep 26, 2025",
+    "weekday": "Friday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Trump’s Targeting of Soros Foundations Sparks Fear and Defiance on Left",
+    "snippet": "Facing a nascent administration investigation, Alex Soros privately pledged that the Open Society Foundations would back down only “over my dead body.”",
+    "lead": "Facing a nascent administration investigation, Alex Soros privately pledged that the Open Society Foundations would back down only “over my dead body.”",
+    "events": [
+      {
+        "title": "Trump’s Targeting of Soros Foundations Sparks Fear and Defiance on Left",
+        "summary": "Facing a nascent administration investigation, Alex Soros privately pledged that the Open Society Foundations would back down only “over my dead body.”",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/09/26/us/politics/trump-soros-foundations-donors.html"
+      },
+      {
+        "title": "Trump Administration Asks Supreme Court to Allow End of Birthright Citizenship",
+        "summary": "Government lawyers asked the justices to clear the way for the president’s executive order ending birthright citizenship.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/09/26/us/politics/supreme-court-birthright-citizenship.html"
+      },
+      {
+        "title": "Trump Predicts More Indictments After Comey and Claims It’s Not Revenge",
+        "summary": "President Trump has made clear that he expects the Justice Department to mete out punishment to his perceived enemies.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/09/26/us/politics/trump-comey-revenge.html"
+      }
+    ]
   }
 ]
