@@ -178,5 +178,34 @@
         "url": "https://www.nbcnews.com/video/trump-s-pick-of-former-attorney-in-virginia-fuels-concerns-over-political-influence-248370245987"
       }
     ]
+  },
+  {
+    "id": "2025-09-27",
+    "dateLabel": "Sep 27, 2025",
+    "weekday": "Saturday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Inside the Trump Administration’s Push to Prosecute James Comey",
+    "snippet": "President Trump’s campaign of retribution began to intensify in mid-July and hit a fever pitch over the last week, culminating in the indictment of one of his…",
+    "lead": "President Trump’s campaign of retribution began to intensify in mid-July and hit a fever pitch over the last week, culminating in the indictment of one of his foremost enemies.",
+    "events": [
+      {
+        "title": "Inside the Trump Administration’s Push to Prosecute James Comey",
+        "summary": "President Trump’s campaign of retribution began to intensify in mid-July and hit a fever pitch over the last week, culminating in the indictment of one of his foremost enemies.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/09/27/us/politics/trump-comey-justice-department.html"
+      },
+      {
+        "title": "Trump to meet with top congressional leaders as a government shutdown looms",
+        "summary": "President Donald Trump will meet with the top four congressional leaders at the White House on Monday as the clock draws nearer to a potential government shutdown.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/politics-news/trump-top-congressional-leaders-government-shutdown-looms-rcna234137"
+      },
+      {
+        "title": "Giuliani and Dominion Voting Systems Settle $1.3 Billion Defamation Suit",
+        "summary": "The election technology company Dominion Voting Systems had accused Rudolph W. Giuliani of waging “a viral disinformation campaign” over the 2020 election.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/09/27/us/politics/rudy-giuliani-dominion-case-settlement.html"
+      }
+    ]
   }
 ]
