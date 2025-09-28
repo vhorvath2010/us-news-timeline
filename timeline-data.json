@@ -180,6 +180,35 @@
     ]
   },
   {
+    "id": "2025-09-26",
+    "dateLabel": "Sep 26, 2025",
+    "weekday": "Friday",
+    "descriptor": "Top Stories",
+    "topHeadline": "James Comey indicted amid sweeping political maneuvers",
+    "snippet": "Ex-FBI Director James Comey was indicted on charges of making false statements to Congress and obstruction of justice, launching a dramatic escalation in the Trump-era legal and political wars.",
+    "lead": "Former FBI Director James Comey was indicted by a federal grand jury on charges of making false statements to Congress and obstruction of justice. The move drew sharp criticism from Democrats, warnings about politicization of justice, and support from Trump allies who framed it as accountability.",
+    "events": [
+      {
+        "title": "Comey indicted on false statement and obstruction charges",
+        "summary": "A federal grand jury formally charged James Comey with one count of making a false statement to Congress and one count of obstruction of justice. Media reports indicate that the indictment is tied to his 2020 testimony on Trump’s actions during the Russia probe and internal DOJ disputes.",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/come-indicted-escalates-trump-campaign-hurt-justice-dept-analysts-2025-09-26/"
+      },
+      {
+        "title": "Trump unveils aggressive new tariffs on drugs, trucks, furniture",
+        "summary": "President Trump announced sweeping new tariffs: a 100 % tariff on imported pharmaceuticals, 25 % on heavy-duty trucks, and 50 % on kitchen cabinets and furniture. Critics say the move could dramatically raise consumer prices and worsen trade relations.",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/trump-slaps-steep-us-tariffs-drugs-heavy-trucks-furniture-2025-09-26/"
+      },
+      {
+        "title": "Assata Shakur, fugitive Black activist, dies in Cuba at 78",
+        "summary": "Assata Shakur—convicted in 1977 for killing a New Jersey state trooper and long since exiled in Cuba—died at age 78. Cuban authorities cited health issues and advanced age. Her death reignited debates over race, justice, and U.S.–Cuba relations.",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/assata-shakur-fugitive-prominent-black-activist-dies-cuba-78-2025-09-26/"
+      }
+    ]
+  },
+  {
     "id": "2025-09-27",
     "dateLabel": "Sep 27, 2025",
     "weekday": "Saturday",
