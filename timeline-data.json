@@ -238,6 +238,64 @@
     ]
   },
   {
+    "id": "2025-09-28",
+    "dateLabel": "Sep 28, 2025",
+    "weekday": "Sunday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Republicans press Democrats to accept short-term bill as shutdown looms",
+    "snippet": "GOP leaders urged Senate Democrats to accept a brief stopgap to keep the government open while longer talks continue, as the White House floated aggressive belt-tightening options if funding lapses.",
+    "lead": "With a shutdown days away, congressional Republicans pushed for a short-term funding bill and blamed Democrats for the impasse, while reporting indicated the administration was exploring ‘backdoor’ cuts that could bite even without new legislation.",
+    "events": [
+      {
+        "title": "Republicans urge Democrats to agree to short-term bill to keep government open",
+        "summary": "GOP leaders said a temporary measure was needed before the Tuesday night deadline and warned thousands of federal workers could be furloughed if talks fail.",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/republicans-urge-democrats-agree-short-term-bill-keep-us-government-open-2025-09-28/"
+      },
+      {
+        "title": "Report: 'Backdoor' funding cuts possible as shutdown fight intensifies",
+        "summary": "The administration examined ways to reduce spending administratively if Congress does not act, escalating the standoff over budget priorities.",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/backdoor-funding-cuts-possible-by-trump-administration-congress-faces-government-2025-09-28/"
+      },
+      {
+        "title": "Trump says he’ll tell U.S. military leaders 'we love them' ahead of meeting",
+        "summary": "The president previewed remarks to top military brass as Washington braced for a possible funding lapse midweek.",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/trump-attend-meeting-with-top-military-leaders-washington-post-reports-2025-09-28/"
+      }
+    ]
+  },
+  {
+    "id": "2025-09-29",
+    "dateLabel": "Sep 29, 2025",
+    "weekday": "Monday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Vance says U.S. ‘headed to a shutdown’ as Senate eyes Tuesday vote",
+    "snippet": "After White House talks, Vice President J.D. Vance said a shutdown looked likely, while Senate leaders teed up a vote for Tuesday with key policy disputes unresolved.",
+    "lead": "Negotiations produced no breakthrough as the administration released sharper shutdown contingencies and Senate leaders planned a last-ditch vote for the final day before funding expires.",
+    "events": [
+      {
+        "title": "Vance warns U.S. is ‘headed to a shutdown’ after meeting with Democrats",
+        "summary": "The vice president’s remarks underscored the widening gap over healthcare and other riders in the funding fight.",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/us-democrats-trump-set-face-off-budget-battle-that-could-trigger-govt-shutdowns-2025-09-29/"
+      },
+      {
+        "title": "Top Senate Republican says chamber will vote Tuesday to avert shutdown",
+        "summary": "Leaders set up a procedural vote, but the measure faced an uphill path given Democratic opposition to GOP-only terms.",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/top-us-senate-republican-says-lawmakers-will-vote-tuesday-bill-avert-government-2025-09-29/"
+      },
+      {
+        "title": "Agencies detail shutdown plans; mass-firing threat looms in guidance",
+        "summary": "Departments outlined furloughs and paused services, with new guidance signaling the administration could use a lapse to shrink the federal workforce.",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/world-at-work/trump-administrations-shutdown-plans-trickle-deadline-nears-2025-09-29/"
+      }
+    ]
+  },
+  {
     "id": "2025-09-30",
     "dateLabel": "Sep 30, 2025",
     "weekday": "Tuesday",
