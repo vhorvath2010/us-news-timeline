@@ -236,5 +236,34 @@
         "url": "https://www.nytimes.com/2025/09/27/us/politics/rudy-giuliani-dominion-case-settlement.html"
       }
     ]
+  },
+  {
+    "id": "2025-09-30",
+    "dateLabel": "Sep 30, 2025",
+    "weekday": "Tuesday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Explaining Democrats’ Misleading Talking Point on the Government Shutdown",
+    "snippet": "Democrats have misused budget jargon to assail the Republican budget proposal as “dirty,” but the bill is considered “clean.”",
+    "lead": "Democrats have misused budget jargon to assail the Republican budget proposal as “dirty,” but the bill is considered “clean.”",
+    "events": [
+      {
+        "title": "Explaining Democrats’ Misleading Talking Point on the Government Shutdown",
+        "summary": "Democrats have misused budget jargon to assail the Republican budget proposal as “dirty,” but the bill is considered “clean.”",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/09/30/us/politics/democrats-government-shutdown-healthcare.html"
+      },
+      {
+        "title": "Schumer and Thune Spar as Government Shutdown Nears",
+        "summary": "Senators fought over a chart. The speaker displayed a big-screen TV. And hundreds of House Democrats took to the floor as the two parties blamed each other for the crisis.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/09/30/us/politics/democrats-shutdown-house.html"
+      },
+      {
+        "title": "In Some States, Strapped Counties Must Impose Trump’s Medicaid Cuts",
+        "summary": "The president’s domestic policy law created complex new work requirements for Medicaid and food stamps, but left the states to administer them. Colorado pushes that burden to its counties.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/09/30/us/politics/counties-medicaid-cuts.html"
+      }
+    ]
   }
 ]
