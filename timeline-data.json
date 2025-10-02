@@ -323,5 +323,34 @@
         "url": "https://www.nytimes.com/2025/09/30/us/politics/counties-medicaid-cuts.html"
       }
     ]
+  },
+  {
+    "id": "2025-10-01",
+    "dateLabel": "Oct 1, 2025",
+    "weekday": "Wednesday",
+    "descriptor": "Top Stories",
+    "topHeadline": "For Workers, Mixed Signals. For the Public, Limited Impact on Shutdown’s First Day.",
+    "snippet": "Federal agencies gave shifting and mixed guidance to their work forces about who should come to work and who shouldn’t, but the initial effect on services appe…",
+    "lead": "Federal agencies gave shifting and mixed guidance to their work forces about who should come to work and who shouldn’t, but the initial effect on services appeared scattered and limited.",
+    "events": [
+      {
+        "title": "For Workers, Mixed Signals. For the Public, Limited Impact on Shutdown’s First Day.",
+        "summary": "Federal agencies gave shifting and mixed guidance to their work forces about who should come to work and who shouldn’t, but the initial effect on services appeared scattered and limited.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/01/us/politics/shutdown-federal-workers-agencies.html"
+      },
+      {
+        "title": "Activists say Israeli navy intercepted nine boats from aid flotilla headed to Gaza",
+        "summary": "The Israeli navy on Wednesday intercepted an aid flotilla bound for Gaza that was being closely watched around the world through their social media posts, according to activists within the flotilla.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/gaza/activists-say-israeli-navy-intercepted-nine-boats-aid-flotilla-headed-rcna235080"
+      },
+      {
+        "title": "The Be-Careful-What-You-Wish-For Shutdown",
+        "summary": "Unlike in shutdowns past, President Trump is the wild card.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/01/us/politics/politics-shutdown-democrats-trump.html"
+      }
+    ]
   }
 ]
