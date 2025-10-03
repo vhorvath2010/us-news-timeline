@@ -352,5 +352,34 @@
         "url": "https://www.nytimes.com/2025/10/01/us/politics/politics-shutdown-democrats-trump.html"
       }
     ]
+  },
+  {
+    "id": "2025-10-02",
+    "dateLabel": "Oct 2, 2025",
+    "weekday": "Thursday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Ann Fagan Ginger, Tireless Defender of Civil Liberties, Dies at 100",
+    "snippet": "She was among the last of a generation of activists and lawyers who weathered the Red Scare, and then helped train a new cohort in the decades that followed.",
+    "lead": "She was among the last of a generation of activists and lawyers who weathered the Red Scare, and then helped train a new cohort in the decades that followed.",
+    "events": [
+      {
+        "title": "Ann Fagan Ginger, Tireless Defender of Civil Liberties, Dies at 100",
+        "summary": "She was among the last of a generation of activists and lawyers who weathered the Red Scare, and then helped train a new cohort in the decades that followed.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/02/us/ann-fagan-ginger-dead.html"
+      },
+      {
+        "title": "Trump Escalates Attacks on Democrats in a Government Shutdown Like No Other",
+        "summary": "Shutdowns are always unpleasant affairs. But President Trump has used his power in aggressive and strikingly personal ways.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/02/us/politics/shutdown-trump-clinton-gingrich.html"
+      },
+      {
+        "title": "Statue of Trump and Epstein holding hands returns to the National Mall",
+        "summary": "A statue featuring President Donald Trump alongside convicted sex offender Jeffrey Epstein has reappeared in front of the Capitol after being removed last week.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/donald-trump/donald-trump-jeffrey-epstein-statue-returns-national-mall-capitol-rcna235314"
+      }
+    ]
   }
 ]
