@@ -381,5 +381,34 @@
         "url": "https://www.nbcnews.com/politics/donald-trump/donald-trump-jeffrey-epstein-statue-returns-national-mall-capitol-rcna235314"
       }
     ]
+  },
+  {
+    "id": "2025-10-03",
+    "dateLabel": "Oct 3, 2025",
+    "weekday": "Friday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Supreme Court Lets Trump Revoke Deportation Protections for Venezuelans",
+    "snippet": "The Trump administration has tried to end deportation protections for more than 300,000 Venezuelan immigrants.",
+    "lead": "The Trump administration has tried to end deportation protections for more than 300,000 Venezuelan immigrants.",
+    "events": [
+      {
+        "title": "Supreme Court Lets Trump Revoke Deportation Protections for Venezuelans",
+        "summary": "The Trump administration has tried to end deportation protections for more than 300,000 Venezuelan immigrants.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/03/us/politics/supreme-court-deportation-protections-venezuelans.html"
+      },
+      {
+        "title": "Kennedy’s Ties to Ally Leading Vaccine Lawsuits Raise Ethical Concerns",
+        "summary": "Aaron Siri is leading legal efforts on policies that dovetail with parts of Health Secretary Robert F. Kennedy Jr.’s government agenda.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/03/health/kennedy-aaron-siri-vaccines-lawsuits.html"
+      },
+      {
+        "title": "'It's a big day': Trump moves closer to Middle East peace — and maybe a prize",
+        "summary": "ANALYSIS: Even if Trump succeeds in the Middl East where his predecessors failed, a Nobel prize would still be a longshot.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/donald-trump/trump-moves-closer-middle-east-peace-nobel-prize-rcna235554"
+      }
+    ]
   }
 ]
