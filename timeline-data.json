@@ -381,5 +381,34 @@
         "url": "https://www.nbcnews.com/politics/donald-trump/donald-trump-jeffrey-epstein-statue-returns-national-mall-capitol-rcna235314"
       }
     ]
+  },
+  {
+    "id": "2025-10-04",
+    "dateLabel": "Oct 4, 2025",
+    "weekday": "Saturday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Judge Blocks Trump’s Deployment of National Guard in Portland, Ore.",
+    "snippet": "A federal judge appointed by President Trump issued a temporary restraining order, siding for now with Oregon and Portland lawyers who called federalizing the…",
+    "lead": "A federal judge appointed by President Trump issued a temporary restraining order, siding for now with Oregon and Portland lawyers who called federalizing the guard a presidential overreach.",
+    "events": [
+      {
+        "title": "Judge Blocks Trump’s Deployment of National Guard in Portland, Ore.",
+        "summary": "A federal judge appointed by President Trump issued a temporary restraining order, siding for now with Oregon and Portland lawyers who called federalizing the guard a presidential overreach.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/04/us/politics/judge-blocks-national-guard-portland.html"
+      },
+      {
+        "title": "For Netanyahu, Trump’s Nod to Peace Puts Him in a Tough Spot",
+        "summary": "The Israeli leader thought he had a plan from the U.S. president that would have represented total victory over Hamas. Suddenly, it looks as though he might not get everything he wants.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/04/world/middleeast/netanyahu-israel-trump-gaza-plan.html"
+      },
+      {
+        "title": "Judge temporarily blocks use of National Guard in Portland",
+        "summary": "A federal judge in Oregon on Saturday temporarily blocked the deployment of 200 National Guard troops to Portland.U.S.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/trump-administration/judge-temporarily-blocks-use-national-guard-portland-rcna235664"
+      }
+    ]
   }
 ]
