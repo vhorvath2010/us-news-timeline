@@ -39,19 +39,23 @@ jobs:
       - name: Generate daily news entry
         run: npm run ingest
 
+      - name: Get date for branch name
+        id: date
+        run: echo "date=$(date -u +%Y-%m-%d)" >> $GITHUB_OUTPUT
+
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
           commit-message: "chore(data): add daily news entry"
-          title: "Automated daily news update"
+          title: "Automated daily news update - ${{ steps.date.outputs.date }}"
           body: |
             This PR was created automatically to add the previous day's top US politics stories.
 
             - Please review headlines, summaries, and sources
             - Edit wording if needed for neutrality/clarity
             - Close if the day had no qualifying stories
-          branch: chore/daily-news-update
+          branch: chore/daily-news-update-${{ steps.date.outputs.date }}
           delete-branch: true
           signoff: false
           add-paths: |
