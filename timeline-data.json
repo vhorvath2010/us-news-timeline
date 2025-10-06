@@ -383,6 +383,53 @@
     ]
   },
   {
+    "id": "2025-10-03",
+    "dateLabel": "Oct 3, 2025",
+    "weekday": "Friday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Senate Fails to Advance Funding Bill as Shutdown Enters Third Day",
+    "snippet": "The Senate failed yet again to advance a stopgap funding measure, deepening the federal shutdown and escalating partisan tensions.",
+    "lead": "On day three of the government shutdown, Senate Republicans were unable to reach the 60-vote threshold to move forward their appropriations bill, while Democrats held their ground on demands tied to healthcare subsidies.",
+    "events": [
+      {
+        "title": "Senate Vote Fails Again on Stopgap Funding, Shutdown Persists",
+        "summary": "On Oct. 3, the Senate failed to advance a Republican-backed continuing resolution, prolonging the federal government shutdown. Democrats rejected moving forward without inclusion of healthcare subsidies.",
+        "source": "Associated Press / CBS News",
+        "url": "https://apnews.com/article/138e0bd690d616f0735429890d28196f"
+      },
+      {
+        "title": "Trump Readies Layoffs as Hopes for Swift Resolution Fade",
+        "summary": "With no breakthrough in sight, the White House signaled it may begin mass layoffs of federal workers unless the shutdown is resolved soon.",
+        "source": "Associated Press / ClickOrlando",
+        "url": "https://www.clickorlando.com/business/2025/10/03/hopes-fade-for-quick-end-to-shutdown-as-trump-readies-layoffs-and-cuts/"
+      },
+      {
+        "title": "Judiciary Warns It May Not Sustain Operations Past Oct. 3",
+        "summary": "The U.S. judiciary’s internal memo indicated that without new appropriations, many federal courts may have to curtail staff operations after Oct. 3, threatening legal backlogs.",
+        "source": "Reuters / Courts’ internal memo",
+        "url": "https://www.reuters.com/legal/government/us-judiciary-may-not-fully-sustain-operations-past-october-3-government-shutdown-2025-09-24/"
+      },
+      {
+        "title": "Trump Nominated for Nobel Peace Prize Again, Experts Skeptical",
+        "summary": "President Trump received another Nobel Peace Prize nomination, though analysts broadly view it as symbolic and unlikely to succeed this year.",
+        "source": "Associated Press / ABC News",
+        "url": "https://abcnews.go.com/International/wireStory/trump-nominated-nobel-peace-prize-experts-win-year-126176542"
+      },
+      {
+        "title": "Hegseth Announces Strike Killing Four on Venezuelan Vessel",
+        "summary": "Defense Secretary Pete Hegseth announced that a U.S. strike on a vessel off the Venezuelan coast killed four, claiming it was trafficking narcotics toward the U.S.",
+        "source": "Public reporting / Wikipedia summary",
+        "url": "https://en.wikipedia.org/wiki/2025_United_States_strikes_on_Venezuelan_boats"
+      },
+      {
+        "title": "Hamas Accepts Hostage Release Terms, Trump Issues Deadline",
+        "summary": "On Oct. 3, Hamas declared willingness to hand over governance of Gaza to technocrats and release hostages, while rejecting full disarmament. Trump set a deadline of Oct. 5 for acceptance.",
+        "source": "Wikipedia summary / multiple news reports",
+        "url": "https://en.wikipedia.org/wiki/Gaza_International_Transitional_Authority"
+      }
+    ]
+  },
+  {
     "id": "2025-10-04",
     "dateLabel": "Oct 4, 2025",
     "weekday": "Saturday",
