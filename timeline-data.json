@@ -457,5 +457,34 @@
         "url": "https://www.nbcnews.com/politics/trump-administration/judge-temporarily-blocks-use-national-guard-portland-rcna235664"
       }
     ]
+  },
+  {
+    "id": "2025-10-05",
+    "dateLabel": "Oct 5, 2025",
+    "weekday": "Sunday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Trump Calls Deadly Strikes on Boats in Caribbean an ‘Act of Kindness’",
+    "snippet": "The president, speaking aboard an aircraft carrier off Norfolk, Va., repeated his claims that the boats were trafficking drugs bound for the United States.",
+    "lead": "The president, speaking aboard an aircraft carrier off Norfolk, Va., repeated his claims that the boats were trafficking drugs bound for the United States.",
+    "events": [
+      {
+        "title": "Trump Calls Deadly Strikes on Boats in Caribbean an ‘Act of Kindness’",
+        "summary": "The president, speaking aboard an aircraft carrier off Norfolk, Va., repeated his claims that the boats were trafficking drugs bound for the United States.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/05/us/politics/trump-caribbean-strikes-drugs-kindness.html"
+      },
+      {
+        "title": "California sues Trump admin. over National Guard deployment",
+        "summary": "California Governor Gavin Newsom said on Sunday that the state is suing President Trump over the deployment of hundreds of California National Guard troops to Oregon. It comes as the president vows t…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/video/-california-sues-trump-admin-over-national-guard-deployment-249142341809"
+      },
+      {
+        "title": "2 Motorists Charged in Chicago, Including One Shot by Federal Agent",
+        "summary": "The account in the federal criminal complaint, which differs significantly from an earlier homeland security statement, says the motorists rammed officers’ vehicle and that an agent shot one when she…",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/05/us/politics/chicago-motorists-charged-border-patrol.html"
+      }
+    ]
   }
 ]
