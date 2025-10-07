@@ -486,5 +486,34 @@
         "url": "https://www.nytimes.com/2025/10/05/us/politics/chicago-motorists-charged-border-patrol.html"
       }
     ]
+  },
+  {
+    "id": "2025-10-06",
+    "dateLabel": "Oct 6, 2025",
+    "weekday": "Monday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Flight Delays Begin as Air Traffic Staffing Shortages Worsen",
+    "snippet": "The delays came just hours after the transportation secretary warned that flying could be disrupted by the government shutdown.",
+    "lead": "The delays came just hours after the transportation secretary warned that flying could be disrupted by the government shutdown.",
+    "events": [
+      {
+        "title": "Flight Delays Begin as Air Traffic Staffing Shortages Worsen",
+        "summary": "The delays came just hours after the transportation secretary warned that flying could be disrupted by the government shutdown.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/06/us/politics/flight-delays-faa-shutdown.html"
+      },
+      {
+        "title": "FAA reports staffing issues at airports as government shutdown continues",
+        "summary": "The Federal Aviation Administration was experiencing staffing issues or anticipating shortages at airports and other air traffic control facilities in the United States on Monday night.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/faa-reports-staffing-issues-airports-government-shutdown-continues-rcna236049"
+      },
+      {
+        "title": "DOJ: Alleged gang member arrested in murder-for-hire plot against Chicago immigration officer",
+        "summary": "The Justice Department announced it arrested an alleged gang member in a plot to kill an immigration officer in Chicago. It comes as there’s a legal showdown over President Trump’s potential deployme…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/nightly-news/video/doj-alleged-gang-member-arrested-in-murder-for-hire-plot-against-chicago-immigration-officer-249228357912"
+      }
+    ]
   }
 ]
