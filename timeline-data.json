@@ -515,5 +515,34 @@
         "url": "https://www.nbcnews.com/nightly-news/video/doj-alleged-gang-member-arrested-in-murder-for-hire-plot-against-chicago-immigration-officer-249228357912"
       }
     ]
+  },
+  {
+    "id": "2025-10-07",
+    "dateLabel": "Oct 7, 2025",
+    "weekday": "Tuesday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Senate confirms scientist with ties to 'Sharpiegate' as top NOAA official",
+    "snippet": "Neil Jacobs was assistant secretary for environmental observation when Trump displayed a map altered with a black Sharpie to incorrectly show Hurricane Dorian'…",
+    "lead": "Neil Jacobs was assistant secretary for environmental observation when Trump displayed a map altered with a black Sharpie to incorrectly show Hurricane Dorian's path.",
+    "events": [
+      {
+        "title": "Senate confirms scientist with ties to 'Sharpiegate' as top NOAA official",
+        "summary": "Neil Jacobs was assistant secretary for environmental observation when Trump displayed a map altered with a black Sharpie to incorrectly show Hurricane Dorian's path.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/congress/senate-confirms-neil-jacobs-trump-sharpiegate-noaa-administrator-rcna236289"
+      },
+      {
+        "title": "Trump Appoints New Head of Immigration Courts",
+        "summary": "Col. Daren K. Margolin, who retired from the Marine Corps, was fired from a command position as head of security at Marine Base Quantico in 2013 for negligently firing a gun into the floor of his off…",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/07/us/politics/trump-immigration-courts.html"
+      },
+      {
+        "title": "Supreme Court appears skeptical of LGBTQ conversion therapy bans",
+        "summary": "The Supreme Court appeared to be leaning towards ruling against a conversion therapy ban in Colorado during oral arguments in a case brought by a Christian therapist who argued the ban violates her r…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/video/supreme-court-appears-skeptical-of-lgbtq-conversion-therapy-bans-249324101730"
+      }
+    ]
   }
 ]
