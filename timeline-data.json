@@ -573,5 +573,34 @@
         "url": "https://www.nbcnews.com/nightly-news/video/trump-israel-and-hamas-agree-to-first-phase-of-his-peace-plan-249423429945"
       }
     ]
+  },
+  {
+    "id": "2025-10-09",
+    "dateLabel": "Oct 9, 2025",
+    "weekday": "Thursday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Virginia gubernatorial candidates clash over Jay Jones' violent texts in lone debate",
+    "snippet": "Democrat Abigail Spanberger and Republican Winsome Earle-Sears sparred frequently and bitterly Thursday during their only debate of this fall's Virginia govern…",
+    "lead": "Democrat Abigail Spanberger and Republican Winsome Earle-Sears sparred frequently and bitterly Thursday during their only debate of this fall's Virginia governor’s race — and much of it wasn’t even about the two candidates onstage",
+    "events": [
+      {
+        "title": "Virginia gubernatorial candidates clash over Jay Jones' violent texts in lone debate",
+        "summary": "Democrat Abigail Spanberger and Republican Winsome Earle-Sears sparred frequently and bitterly Thursday during their only debate of this fall's Virginia governor’s race — and much of it wasn’t even a…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/elections/abigail-spanberger-winsome-earle-sears-virgina-governor-debate-rcna235418"
+      },
+      {
+        "title": "Democratic Alarm Over an Unbound Trump Fuels Shutdown Standoff",
+        "summary": "The threat of rising Obamacare premiums has been Democrats’ main focus in the public debate, but the president’s defiance of laws, norms and congressional constraints has helped hold them together in…",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/09/us/politics/democrats-shutdown-trump-administration.html"
+      },
+      {
+        "title": "How the Israel-Hamas ceasefire deal came together",
+        "summary": "President Donald Trump had to maintain the trust of Israel and a series of Arab- and Muslim-majority nations. His ability to walk that tightrope was tested repeatedly.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/donald-trump/israel-hamas-ceasefire-deal-came-together-rcna236789"
+      }
+    ]
   }
 ]
