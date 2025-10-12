@@ -604,6 +604,35 @@
     ]
   },
   {
+    "id": "2025-10-10",
+    "dateLabel": "Oct 10, 2025",
+    "weekday": "Friday",
+    "descriptor": "Top Stories",
+    "topHeadline": "White House Signals Federal Layoffs Have Begun Amid Government Shutdown",
+    "snippet": "The head of the White House budget office said on Friday that reductions in force had started.",
+    "lead": "The head of the White House budget office said on Friday that reductions in force had started.",
+    "events": [
+      {
+        "title": "White House Signals Federal Layoffs Have Begun Amid Government Shutdown",
+        "summary": "The head of the White House budget office said on Friday that reductions in force had started.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/10/us/politics/federal-layoffs-government-shutdown.html"
+      },
+      {
+        "title": "Judge Signals She Is Likely to Order Abrego Garcia’s Release Soon",
+        "summary": "The judge expressed frequent frustrations with the Trump administration, saying it had presented a “totally inconsistent” case to keep the Maryland man in immigration detention.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/10/us/politics/abrego-garcia-hearing.html"
+      },
+      {
+        "title": "The Trump Split Screen: A Peacemaker Abroad, a Retribution Campaign at Home",
+        "summary": "President Trump’s dueling personas were on display this week, providing endless ammunition to his allies and his enemies alike.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/10/us/politics/trump-peace-retribution.html"
+      }
+    ]
+  },
+  {
     "id": "2025-10-11",
     "dateLabel": "Oct 11, 2025",
     "weekday": "Saturday",
