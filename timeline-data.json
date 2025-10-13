@@ -660,5 +660,34 @@
         "url": "https://www.nbcnews.com/video/luigi-mangione-s-lawyers-push-to-dismiss-death-penalty-charge-249711173717"
       }
     ]
+  },
+  {
+    "id": "2025-10-12",
+    "dateLabel": "Oct 12, 2025",
+    "weekday": "Sunday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Trump Heads to Israel and Then Egypt as Hostage-Prisoner Swap Nears",
+    "snippet": "In Israel, he plans to meet with hostage families and address the Knesset, and in Egypt, he will help lead a summit with more than 20 countries to discuss the…",
+    "lead": "In Israel, he plans to meet with hostage families and address the Knesset, and in Egypt, he will help lead a summit with more than 20 countries to discuss the peace process in Gaza.",
+    "events": [
+      {
+        "title": "Trump Heads to Israel and Then Egypt as Hostage-Prisoner Swap Nears",
+        "summary": "In Israel, he plans to meet with hostage families and address the Knesset, and in Egypt, he will help lead a summit with more than 20 countries to discuss the peace process in Gaza.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/12/us/politics/trump-leaves-for-a-visit-to-israel-and-will-later-co-chair-a-meeting-in-egypt-on-the-gaza-peace-plan.html"
+      },
+      {
+        "title": "Who Are the Louisiana Voters Behind a Major Supreme Court Challenge?",
+        "summary": "There is little information in court filings about the dozen plaintiffs who challenged the state’s voting map as an illegal racial gerrymander.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/12/us/politics/supreme-court-voting-rights.html"
+      },
+      {
+        "title": "Why Now? The Lost Chances to Reach a Hostage Deal, and a Cease-Fire, Months Ago",
+        "summary": "On Gaza, President Trump put few, if any, guardrails on Israel’s offensive, bucking international demands for a cease-fire. Then he changed course.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/12/us/politics/lost-chances-hostage-deal-gaza-israel.html"
+      }
+    ]
   }
 ]
