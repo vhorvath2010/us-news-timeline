@@ -689,5 +689,34 @@
         "url": "https://www.nytimes.com/2025/10/12/us/politics/lost-chances-hostage-deal-gaza-israel.html"
       }
     ]
+  },
+  {
+    "id": "2025-10-13",
+    "dateLabel": "Oct 13, 2025",
+    "weekday": "Monday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Trump’s Two Minds on China Sow a Chaotic Few Days",
+    "snippet": "The president’s bellicose vow of steep new tariffs, followed quickly by a more conciliatory message, pointed to an internal tug of war over his approach.",
+    "lead": "The president’s bellicose vow of steep new tariffs, followed quickly by a more conciliatory message, pointed to an internal tug of war over his approach.",
+    "events": [
+      {
+        "title": "Trump’s Two Minds on China Sow a Chaotic Few Days",
+        "summary": "The president’s bellicose vow of steep new tariffs, followed quickly by a more conciliatory message, pointed to an internal tug of war over his approach.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/13/us/politics/trump-china-tariffs.html"
+      },
+      {
+        "title": "Trump Takes a Victory Lap, but Avoids Questions About What’s Next",
+        "summary": "Except for brief references, President Trump did not talk about what it would take to rebuild Gaza or the future of the Palestinian people.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/13/world/middleeast/trump-victory-lap-whats-next.html"
+      },
+      {
+        "title": "Kristi Noem says Coast Guard members will get paid during the government shutdown",
+        "summary": "The Department of Homeland Security found an \"innovative solution\" to ensure Coast Guard personnel get paid. Most federal workers aren't receiving paychecks.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/trump-administration/kristi-noem-coast-guard-members-will-get-paid-government-shutdown-rcna237439"
+      }
+    ]
   }
 ]
