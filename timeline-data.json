@@ -689,5 +689,34 @@
         "url": "https://www.nytimes.com/2025/10/12/us/politics/lost-chances-hostage-deal-gaza-israel.html"
       }
     ]
+  },
+  {
+    "id": "2025-10-14",
+    "dateLabel": "Oct 14, 2025",
+    "weekday": "Tuesday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Trump Renews Threat to Cut ‘Democrat Programs’ as Government Shutdown Enters Third Week",
+    "snippet": "The president said his administration was “closing up Democrat programs that we disagree with, and they’re never going to open again.” He promised to release a…",
+    "lead": "The president said his administration was “closing up Democrat programs that we disagree with, and they’re never going to open again.” He promised to release a list of programs by Friday.",
+    "events": [
+      {
+        "title": "Trump Renews Threat to Cut ‘Democrat Programs’ as Government Shutdown Enters Third Week",
+        "summary": "The president said his administration was “closing up Democrat programs that we disagree with, and they’re never going to open again.” He promised to release a list of programs by Friday.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/14/us/politics/trump-threats-democrats-shutdown.html"
+      },
+      {
+        "title": "Jack Smith speaks out against the Trump administration in rare interview",
+        "summary": "Jack Smith, the special counsel who brought two criminal cases against Donald Trump, spoke out against the Trump administration in a rare interview posted Tuesday",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/justice-department/jack-smith-speaks-trump-administration-rare-interview-rcna237688"
+      },
+      {
+        "title": "Jack Smith Calls Idea That Politics Infected Trump Prosecutions ‘Ludicrous’",
+        "summary": "The former special counsel’s first extended remarks since resigning in January were released the same day House Republicans summoned him to testify.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/14/us/politics/jack-smith-house-judiciary-committee.html"
+      }
+    ]
   }
 ]
