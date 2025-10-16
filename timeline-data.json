@@ -747,5 +747,34 @@
         "url": "https://www.nytimes.com/2025/10/14/us/politics/jack-smith-house-judiciary-committee.html"
       }
     ]
+  },
+  {
+    "id": "2025-10-15",
+    "dateLabel": "Oct 15, 2025",
+    "weekday": "Wednesday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Trump Administration Authorizes Covert C.I.A. Action in Venezuela",
+    "snippet": "The development comes as the U.S. military is drawing up options for President Trump to consider, including possible strikes inside the country.",
+    "lead": "The development comes as the U.S. military is drawing up options for President Trump to consider, including possible strikes inside the country.",
+    "events": [
+      {
+        "title": "Trump Administration Authorizes Covert C.I.A. Action in Venezuela",
+        "summary": "The development comes as the U.S. military is drawing up options for President Trump to consider, including possible strikes inside the country.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/15/us/politics/trump-covert-cia-action-venezuela.html"
+      },
+      {
+        "title": "On Fox News, Mamdani Speaks Directly to Trump: I Won’t Be a Mayor Like Adams",
+        "summary": "Zohran Mamdani, the Democratic nominee for New York City mayor, defended his positions while parrying questions about the Israel-Gaza war.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/15/nyregion/mamdani-fox-interview.html"
+      },
+      {
+        "title": "The Lonely House Republican Still Coming to Work During the Shutdown",
+        "summary": "Representative Kevin Kiley of California has criticized his own party for keeping the House out of session during the shutdown. He is battling boredom and disaffection as the stalemate drags on.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/15/us/politics/kevin-kiley-shutdown.html"
+      }
+    ]
   }
 ]
