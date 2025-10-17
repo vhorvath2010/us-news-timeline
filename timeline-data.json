@@ -776,5 +776,34 @@
         "url": "https://www.nytimes.com/2025/10/15/us/politics/kevin-kiley-shutdown.html"
       }
     ]
+  },
+  {
+    "id": "2025-10-16",
+    "dateLabel": "Oct 16, 2025",
+    "weekday": "Thursday",
+    "descriptor": "Top Stories",
+    "topHeadline": "John Bolton Indicted Over Handling of Classified Information",
+    "snippet": "Mr. Bolton, a Trump aide turned critic, is part of a string of presidential foes to become prosecutorial targets. But his case gained momentum in the Biden adm…",
+    "lead": "Mr. Bolton, a Trump aide turned critic, is part of a string of presidential foes to become prosecutorial targets. But his case gained momentum in the Biden administration.",
+    "events": [
+      {
+        "title": "John Bolton Indicted Over Handling of Classified Information",
+        "summary": "Mr. Bolton, a Trump aide turned critic, is part of a string of presidential foes to become prosecutorial targets. But his case gained momentum in the Biden administration.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/16/us/politics/john-bolton-indictment-trump.html"
+      },
+      {
+        "title": "Solution to CIA’s Kryptos Sculpture Is Found in Smithsonian Vault",
+        "summary": "Jim Sanborn is auctioning off the solution to Kryptos, the puzzle he sculpted for the intelligence agency’s headquarters. Two fans of the work then discovered the key.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html"
+      },
+      {
+        "title": "New York mayoral candidates face off in heated debate",
+        "summary": "Three candidates took the stage in the New York City mayoral race in the first of two debates. Zohran Mamdani, Andrew Cuomo and Curtis Sliwa faced off on issues from the economy, the National Guard i…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/video/new-york-mayoral-candidates-face-off-in-heated-debate-250057285982"
+      }
+    ]
   }
 ]
