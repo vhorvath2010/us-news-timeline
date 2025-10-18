@@ -805,5 +805,34 @@
         "url": "https://www.nbcnews.com/video/new-york-mayoral-candidates-face-off-in-heated-debate-250057285982"
       }
     ]
+  },
+  {
+    "id": "2025-10-17",
+    "dateLabel": "Oct 17, 2025",
+    "weekday": "Friday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Trump Says He Is Commuting George Santos’s Prison Sentence for Fraud",
+    "snippet": "George Santos, the disgraced Republican congressman, had been sentenced to prison after his web of deceit unraveled. His lawyer said Mr. Santos expected to be…",
+    "lead": "George Santos, the disgraced Republican congressman, had been sentenced to prison after his web of deceit unraveled. His lawyer said Mr. Santos expected to be released Friday.",
+    "events": [
+      {
+        "title": "Trump Says He Is Commuting George Santos’s Prison Sentence for Fraud",
+        "summary": "George Santos, the disgraced Republican congressman, had been sentenced to prison after his web of deceit unraveled. His lawyer said Mr. Santos expected to be released Friday.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-george-santos-sentence-commute.html"
+      },
+      {
+        "title": "U.S. Detains 2 Survivors of Latest Military Strike in Caribbean",
+        "summary": "The capture of prisoners presents a major new set of legal and policy problems for the Trump administration in its escalating campaign.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/17/us/politics/us-military-strike-survivors.html"
+      },
+      {
+        "title": "Judge to Broaden Order Blocking Many Layoffs as Trump Seeks More Cuts",
+        "summary": "Officials at some agencies had left open the possibility of layoffs in court filings, but a federal judge said she would widen an initial ban on the cuts.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-shutdown-cuts-unions.html"
+      }
+    ]
   }
 ]
