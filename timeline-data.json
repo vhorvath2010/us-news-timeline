@@ -834,5 +834,34 @@
         "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-shutdown-cuts-unions.html"
       }
     ]
+  },
+  {
+    "id": "2025-10-18",
+    "dateLabel": "Oct 18, 2025",
+    "weekday": "Saturday",
+    "descriptor": "Top Stories",
+    "topHeadline": "No Kings protests erupt nationwide, drawing nearly 7 million demonstrators",
+    "snippet": "See 'No Kings' protest photos as demonstrations against the Trump administration return across the U.S., including in Los Angeles, Chicago and Portland.",
+    "lead": "See 'No Kings' protest photos as demonstrations against the Trump administration return across the U.S., including in Los Angeles, Chicago and Portland.",
+    "events": [
+      {
+        "title": "No Kings protests erupt nationwide, drawing nearly 7 million demonstrators",
+        "summary": "See 'No Kings' protest photos as demonstrations against the Trump administration return across the U.S., including in Los Angeles, Chicago and Portland.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/no-kings-protest-photos-cities-demonstrations-rcna238041"
+      },
+      {
+        "title": "Scenes from the ‘No Kings’ Anti-Trump Protests in Video and Photos",
+        "summary": "With signs and chants, protesters take part in ‘No Kings’ rallies focused on what they see as overreach by the Trump administration.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/18/us/politics/no-kings-protests-trump.html"
+      },
+      {
+        "title": "Venezuelan opposition leader María Corina Machado speaks out against Maduro regime",
+        "summary": "In a new interview with NBC Nightly News Saturday anchor José Díaz-Balart, Venezuelan opposition leader María Corina Machado criticized leader Nicolas Maduro’s regime and praised President Trump as t…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/video/venezuelan-opposition-leader-maria-corina-machado-speaks-out-against-maduro-regime-250169925722"
+      }
+    ]
   }
 ]
