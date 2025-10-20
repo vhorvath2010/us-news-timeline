@@ -863,5 +863,34 @@
         "url": "https://www.nbcnews.com/video/venezuelan-opposition-leader-maria-corina-machado-speaks-out-against-maduro-regime-250169925722"
       }
     ]
+  },
+  {
+    "id": "2025-10-19",
+    "dateLabel": "Oct 19, 2025",
+    "weekday": "Sunday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Colombia’s Leader Accuses U.S. of Murder, Prompting Trump to Halt Aid",
+    "snippet": "President Gustavo Petro said a U.S. strike in the Caribbean had killed a fisherman. President Trump said he would cut aid and impose new tariffs on Colombian i…",
+    "lead": "President Gustavo Petro said a U.S. strike in the Caribbean had killed a fisherman. President Trump said he would cut aid and impose new tariffs on Colombian imports.",
+    "events": [
+      {
+        "title": "Colombia’s Leader Accuses U.S. of Murder, Prompting Trump to Halt Aid",
+        "summary": "President Gustavo Petro said a U.S. strike in the Caribbean had killed a fisherman. President Trump said he would cut aid and impose new tariffs on Colombian imports.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/19/world/americas/trump-colombia-petro-aid.html"
+      },
+      {
+        "title": "Shell Detonated Over Interstate 5 During Marines Event, California Officials Say",
+        "summary": "The mishap, during an anniversary celebration for the Marine Corps attended by the vice president and defense secretary, underscores safety concerns that Gov. Gavin Newsom voiced before Saturday’s ev…",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/19/us/politics/shell-interstate-5-marines-california.html"
+      },
+      {
+        "title": "New allegations from Epstein accuser Virginia Roberts Giuffre’s new memoir",
+        "summary": "Virginia Roberts Giuffre, one of the most prominent Jeffrey Epstein accusers, is revealing new allegations about the abuse she endured in a new memoir set to be released this week, after her death in…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/video/new-allegations-from-epstein-accuser-virginia-roberts-giuffre-s-new-memoir-250197573920"
+      }
+    ]
   }
 ]
