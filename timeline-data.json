@@ -892,5 +892,34 @@
         "url": "https://www.nbcnews.com/video/new-allegations-from-epstein-accuser-virginia-roberts-giuffre-s-new-memoir-250197573920"
       }
     ]
+  },
+  {
+    "id": "2025-10-20",
+    "dateLabel": "Oct 20, 2025",
+    "weekday": "Monday",
+    "descriptor": "Top Stories",
+    "topHeadline": "White House’s East Wing Partially Demolished to Build Trump’s Ballroom",
+    "snippet": "The president had pledged that construction wouldn’t “interfere with the current building,” a promise that always seemed unrealistic given the grand scale of t…",
+    "lead": "The president had pledged that construction wouldn’t “interfere with the current building,” a promise that always seemed unrealistic given the grand scale of the plans.",
+    "events": [
+      {
+        "title": "White House’s East Wing Partially Demolished to Build Trump’s Ballroom",
+        "summary": "The president had pledged that construction wouldn’t “interfere with the current building,” a promise that always seemed unrealistic given the grand scale of the plans.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/20/us/politics/trump-white-house-east-wing-demolition-ballroom.html"
+      },
+      {
+        "title": "Some States With Democratic Governors Are Posting Partisan Shutdown Messages on Official Websites",
+        "summary": "The messages follow a pattern set by the Trump administration, but use notably milder language.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/20/us/politics/shutdown-messages-state-websites.html"
+      },
+      {
+        "title": "Trump Hopes Argentina Can Help Bring Down Beef Prices",
+        "summary": "President Trump’s plan to import red meat runs counter to his philosophy of increasing domestic production, and has angered cattle ranchers in the United States.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/20/us/politics/trump-argentina-beef.html"
+      }
+    ]
   }
 ]
