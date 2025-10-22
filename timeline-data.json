@@ -921,5 +921,34 @@
         "url": "https://www.nytimes.com/2025/10/20/us/politics/trump-argentina-beef.html"
       }
     ]
+  },
+  {
+    "id": "2025-10-21",
+    "dateLabel": "Oct 21, 2025",
+    "weekday": "Tuesday",
+    "descriptor": "Top Stories",
+    "topHeadline": "As Trump Moves Forward With White House Ballroom Project, Architects Raise Concerns",
+    "snippet": "Architects were surprised by the scale and speed of the project, but the president is moving forward with his plans for a ballroom at the White House.",
+    "lead": "Architects were surprised by the scale and speed of the project, but the president is moving forward with his plans for a ballroom at the White House.",
+    "events": [
+      {
+        "title": "As Trump Moves Forward With White House Ballroom Project, Architects Raise Concerns",
+        "summary": "Architects were surprised by the scale and speed of the project, but the president is moving forward with his plans for a ballroom at the White House.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/21/arts/design/trump-ballroom-architects-review.html"
+      },
+      {
+        "title": "Hegseth cracks down on Pentagon staff speaking to Congress",
+        "summary": "The Defense Department is significantly changing its policy of interacting with Congress, according to a new, five-page memo obtained by NBC News",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/national-security/pentagon-memo-instructs-staff-get-permission-speak-congress-rcna239037"
+      },
+      {
+        "title": "Ecuador Rejects Prosecution of Survivor of U.S. Strike on Vessel",
+        "summary": "The country has freed the man, one of two survivors of a U.S. military strike on a submersible vessel last week, defying President Trump’s claim that he would be held and prosecuted.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/21/us/politics/ecuador-us-strike-survivor.html"
+      }
+    ]
   }
 ]
