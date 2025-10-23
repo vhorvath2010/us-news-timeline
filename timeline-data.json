@@ -950,5 +950,34 @@
         "url": "https://www.nytimes.com/2025/10/21/us/politics/ecuador-us-strike-survivor.html"
       }
     ]
+  },
+  {
+    "id": "2025-10-22",
+    "dateLabel": "Oct 22, 2025",
+    "weekday": "Wednesday",
+    "descriptor": "Top Stories",
+    "topHeadline": "U.S. Strikes Boats in Pacific, Expanding Operation Against Drug-Running Suspects",
+    "snippet": "The Trump administration announced a second strike outside the Caribbean, in a campaign against what U.S. officials say are boats carrying drugs bound for the…",
+    "lead": "The Trump administration announced a second strike outside the Caribbean, in a campaign against what U.S. officials say are boats carrying drugs bound for the United States.",
+    "events": [
+      {
+        "title": "U.S. Strikes Boats in Pacific, Expanding Operation Against Drug-Running Suspects",
+        "summary": "The Trump administration announced a second strike outside the Caribbean, in a campaign against what U.S. officials say are boats carrying drugs bound for the United States.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/22/us/politics/trump-drug-boat-strike-colombia.html"
+      },
+      {
+        "title": "University of Virginia Makes Deal With White House to Halt Investigations",
+        "summary": "The Justice Department had been scrutinizing one of the nation’s premier public universities over accusations of civil rights violations.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/22/us/politics/university-of-virginia-trump-agreement.html"
+      },
+      {
+        "title": "As Johnson Delays, Grijalva Sues to Be Sworn In to Congress",
+        "summary": "Representative-elect Adelita Grijalva, Democrat of Arizona, along with the state’s attorney general, argued that the speaker had no authority to delay swearing her into office.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/22/us/politics/adelita-grijalva-lawsuit-swearing-in-congress.html"
+      }
+    ]
   }
 ]
