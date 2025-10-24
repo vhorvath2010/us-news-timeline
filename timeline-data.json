@@ -979,5 +979,34 @@
         "url": "https://www.nytimes.com/2025/10/22/us/politics/adelita-grijalva-lawsuit-swearing-in-congress.html"
       }
     ]
+  },
+  {
+    "id": "2025-10-23",
+    "dateLabel": "Oct 23, 2025",
+    "weekday": "Thursday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Democrats Block Federal Worker Pay Bill as Shutdown Drags On",
+    "snippet": "A Republican measure that would pay essential government employees faltered in the Senate, and the G.O.P. blocked a pair of Democratic bills to pay a broader s…",
+    "lead": "A Republican measure that would pay essential government employees faltered in the Senate, and the G.O.P. blocked a pair of Democratic bills to pay a broader swath of workers.",
+    "events": [
+      {
+        "title": "Democrats Block Federal Worker Pay Bill as Shutdown Drags On",
+        "summary": "A Republican measure that would pay essential government employees faltered in the Senate, and the G.O.P. blocked a pair of Democratic bills to pay a broader swath of workers.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/23/us/politics/democrats-shutdown-federal-employee-pay.html"
+      },
+      {
+        "title": "Protester Who Played ‘Star Wars’ Song Sues After Arrest in Washington",
+        "summary": "Sam O’Hara was playing the “Imperial March” theme from the movie while protesting the deployment of National Guard troops in the capital when he was handcuffed by city police officers.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/23/us/politics/protester-who-played-star-wars-song-sues-after-arrest-in-washington.html"
+      },
+      {
+        "title": "Musk Attacks NASA Leader Over Threat to Reconsider Lunar Contract",
+        "summary": "The billionaire’s swipes at Sean Duffy are the latest example of his tangling with members of the Trump administration.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/23/us/politics/elon-musk-duffy-nasa.html"
+      }
+    ]
   }
 ]
