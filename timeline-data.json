@@ -1008,5 +1008,34 @@
         "url": "https://www.nytimes.com/2025/10/23/us/politics/elon-musk-duffy-nasa.html"
       }
     ]
+  },
+  {
+    "id": "2025-10-24",
+    "dateLabel": "Oct 24, 2025",
+    "weekday": "Friday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Trump Administration Plans a Shake-Up at ICE to Speed Deportations",
+    "snippet": "The preliminary plan stems from frustration over the pace of the deportations, which are lagging behind President Trump’s demands.",
+    "lead": "The preliminary plan stems from frustration over the pace of the deportations, which are lagging behind President Trump’s demands.",
+    "events": [
+      {
+        "title": "Trump Administration Plans a Shake-Up at ICE to Speed Deportations",
+        "summary": "The preliminary plan stems from frustration over the pace of the deportations, which are lagging behind President Trump’s demands.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/24/us/politics/trump-deportations-ice.html"
+      },
+      {
+        "title": "Bannon Claims ‘There Is a Plan’ for Trump to Run for a Third Term",
+        "summary": "The claim comes after months of President Trump toying with the idea, insisting that he is “not joking” about defying a constitutionally-mandated term limit.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/24/us/politics/president-trump-2028-steve-bannon.html"
+      },
+      {
+        "title": "Federal workers flock to D.C. food bank as they miss first full paycheck of shutdown",
+        "summary": "Federal workers lined up outside of the Capital Area Food Bank after missing their first full paycheck since the now 24-day government shutdown began.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/politics-news/federal-workers-dc-food-bank-miss-first-full-paycheck-shutdown-rcna239698"
+      }
+    ]
   }
 ]
