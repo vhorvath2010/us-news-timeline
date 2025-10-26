@@ -1037,5 +1037,34 @@
         "url": "https://www.nbcnews.com/politics/politics-news/federal-workers-dc-food-bank-miss-first-full-paycheck-shutdown-rcna239698"
       }
     ]
+  },
+  {
+    "id": "2025-10-25",
+    "dateLabel": "Oct 25, 2025",
+    "weekday": "Saturday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Trump Announces Tariff Increase on Canada Over Reagan Ad Spat",
+    "snippet": "The ad, which will stop airing on Monday, used audio of a 1987 address by Ronald Reagan making a case against tariffs.",
+    "lead": "The ad, which will stop airing on Monday, used audio of a 1987 address by Ronald Reagan making a case against tariffs.",
+    "events": [
+      {
+        "title": "Trump Announces Tariff Increase on Canada Over Reagan Ad Spat",
+        "summary": "The ad, which will stop airing on Monday, used audio of a 1987 address by Ronald Reagan making a case against tariffs.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/25/world/canada/trump-tariffs-reagan-ad.html"
+      },
+      {
+        "title": "Navy Begins Evacuating Families From Guantánamo Bay Ahead of Hurricane Melissa",
+        "summary": "The base commander on Saturday expanded a previous evacuation order to include “non-mission-essential U.S. citizens.”",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/25/us/politics/guantanamo-bay-hurricane-melissa-evacuations.html"
+      },
+      {
+        "title": "Trump raises Canada tariffs amid high-stakes Asia trip",
+        "summary": "On Air Force One heading to his high-stakes trip to Asia, President Trump said he’s raising tariffs on Canada by 10 percent in reaction to a TV ad that criticized his tariff policies. NBC News’ Gabe…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/video/trump-raises-canada-tariffs-amid-high-stakes-asia-trip-250636357587"
+      }
+    ]
   }
 ]
