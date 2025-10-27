@@ -1066,5 +1066,34 @@
         "url": "https://www.nbcnews.com/video/trump-raises-canada-tariffs-amid-high-stakes-asia-trip-250636357587"
       }
     ]
+  },
+  {
+    "id": "2025-10-26",
+    "dateLabel": "Oct 26, 2025",
+    "weekday": "Sunday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Mamdani and the Left’s Biggest Stars Unite Before a Sea of Supporters",
+    "snippet": "As Senator Bernie Sanders and Representative Alexandria Ocasio-Cortez joined Zohran Mamdani on Sunday at Forest Hills Stadium, a bigger test for the left may s…",
+    "lead": "As Senator Bernie Sanders and Representative Alexandria Ocasio-Cortez joined Zohran Mamdani on Sunday at Forest Hills Stadium, a bigger test for the left may still lie ahead.",
+    "events": [
+      {
+        "title": "Mamdani and the Left’s Biggest Stars Unite Before a Sea of Supporters",
+        "summary": "As Senator Bernie Sanders and Representative Alexandria Ocasio-Cortez joined Zohran Mamdani on Sunday at Forest Hills Stadium, a bigger test for the left may still lie ahead.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/26/nyregion/mamdani-sanders-aoc-rally.html"
+      },
+      {
+        "title": "Zohran Mamdani, Bernie Sanders and Alexandria Ocasio-Cortez slam Trump at raucous rally",
+        "summary": "New York mayoral hopeful Zohran Mamdani and two of his most prominent backers, Sen.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/elections/zohran-mamdani-bernie-sanders-alexandria-ocasio-cortez-slam-trump-rauc-rcna239944"
+      },
+      {
+        "title": "Keeping the House Absent, Johnson Marginalizes Congress and Himself",
+        "summary": "The speaker’s decision to hold the House in an indefinite hiatus during the shutdown is his latest move to diminish the role of the legislative branch — and his own post.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/25/us/politics/mike-johnson-speaker-congress.html"
+      }
+    ]
   }
 ]
