@@ -1095,5 +1095,34 @@
         "url": "https://www.nytimes.com/2025/10/25/us/politics/mike-johnson-speaker-congress.html"
       }
     ]
+  },
+  {
+    "id": "2025-10-27",
+    "dateLabel": "Oct 27, 2025",
+    "weekday": "Monday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Government Shutdown Imperils SNAP and Other Antipoverty Programs",
+    "snippet": "Within days, tens of millions of low-income Americans may lose assistance for food, child care and utilities if the federal government remains shut down.",
+    "lead": "Within days, tens of millions of low-income Americans may lose assistance for food, child care and utilities if the federal government remains shut down.",
+    "events": [
+      {
+        "title": "Government Shutdown Imperils SNAP and Other Antipoverty Programs",
+        "summary": "Within days, tens of millions of low-income Americans may lose assistance for food, child care and utilities if the federal government remains shut down.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/27/us/politics/trump-shutdown-snap-food-stamps-aid.html"
+      },
+      {
+        "title": "California says it will monitor the Justice Department's election watchers next week",
+        "summary": "State Attorney General Rob Bonta announced California will deploy its own election observers after U.S. Attorney General Pam Bondi said DOJ would monitor polls in five counties.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/elections/california-monitor-justice-department-election-watchers-rob-bonta-rcna240148"
+      },
+      {
+        "title": "AFGE, Top Federal Workers’ Union, Sides With Republicans on Shutdown",
+        "summary": "The American Federation of Government Employees, in a shift, called on Congress to immediately reopen the government without the health care measures sought by Democratic lawmakers.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/27/us/politics/afge-federal-workers-union-government-shutdown.html"
+      }
+    ]
   }
 ]
