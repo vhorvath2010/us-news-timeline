@@ -1153,5 +1153,34 @@
         "url": "https://www.nytimes.com/2025/10/28/us/politics/trump-usda-food-nutrition.html"
       }
     ]
+  },
+  {
+    "id": "2025-10-29",
+    "dateLabel": "Oct 29, 2025",
+    "weekday": "Wednesday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Trump Threatens to Resume Nuclear Weapons Testing, Minutes Before Xi Meeting",
+    "snippet": "Just minutes before he was scheduled to meet President Xi Jinping of China, the president threatened on social media to resume nuclear testing for the first ti…",
+    "lead": "Just minutes before he was scheduled to meet President Xi Jinping of China, the president threatened on social media to resume nuclear testing for the first time in 33 years.",
+    "events": [
+      {
+        "title": "Trump Threatens to Resume Nuclear Weapons Testing, Minutes Before Xi Meeting",
+        "summary": "Just minutes before he was scheduled to meet President Xi Jinping of China, the president threatened on social media to resume nuclear testing for the first time in 33 years.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/29/us/politics/trump-nuclear-weapons-testing.html"
+      },
+      {
+        "title": "Trump orders Pentagon to begin testing nuclear weapons 'immediately'",
+        "summary": "The U.S. voluntarily halted nuclear explosive testing in 1992, though it has the ability to resume tests at a site in Nevada.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/national-security/trump-orders-pentagon-begin-testing-nuclear-weapons-immediately-rcna240681"
+      },
+      {
+        "title": "Toyota Says $10 Billion U.S. Investment Touted by Trump Isn’t New",
+        "summary": "Japanese officials have called into question some elements of the flurry of big new investments announced by President Trump during his Japan visit.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/29/business/trump-toyota-10-billion.html"
+      }
+    ]
   }
 ]
