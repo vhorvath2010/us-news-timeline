@@ -1153,5 +1153,34 @@
         "url": "https://www.nytimes.com/2025/10/28/us/politics/trump-usda-food-nutrition.html"
       }
     ]
+  },
+  {
+    "id": "2025-10-30",
+    "dateLabel": "Oct 30, 2025",
+    "weekday": "Thursday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Trump administration limits refugee admissions to lowest on record",
+    "snippet": "The Trump administration dramatically slashed the refugee admissions cap for the new fiscal year starting this month at 7,500, the lowest on record, according…",
+    "lead": "The Trump administration dramatically slashed the refugee admissions cap for the new fiscal year starting this month at 7,500, the lowest on record, according to a Federal Register memo posted Thursday",
+    "events": [
+      {
+        "title": "Trump administration limits refugee admissions to lowest on record",
+        "summary": "The Trump administration dramatically slashed the refugee admissions cap for the new fiscal year starting this month at 7,500, the lowest on record, according to a Federal Register memo posted Thursd…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/trump-administration/trump-administration-sets-refugee-admissions-fiscal-2026-lowest-record-rcna241009"
+      },
+      {
+        "title": "In China Truce on Tariffs and Rare Earths, National Security Controls Are Bargaining Chip",
+        "summary": "Some analysts say Beijing won a major victory in its trade talks: Getting the U.S. to withdraw a national security measure that previously was not under discussion.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/30/us/politics/china-trump-trade-security-chips-minerals.html"
+      },
+      {
+        "title": "Trump and Xi Ease Off the Trade War, but New Nuclear Threat Brings a Chill",
+        "summary": "The two leaders reached an agreement on fentanyl, some tariffs and rare earths, at least for a year. But even as the global trade picture cleared a little, Mr. Trump spurred new worries about nuclear…",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/30/us/politics/trump-xi-trade-meeting.html"
+      }
+    ]
   }
 ]
