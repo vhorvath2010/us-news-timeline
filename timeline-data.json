@@ -1182,5 +1182,34 @@
         "url": "https://www.nytimes.com/2025/10/29/business/trump-toyota-10-billion.html"
       }
     ]
+  },
+  {
+    "id": "2025-11-01",
+    "dateLabel": "Nov 1, 2025",
+    "weekday": "Saturday",
+    "descriptor": "Top Stories",
+    "topHeadline": "War Powers Law Does Not Apply to Trump’s Boat Strikes, Administration Says",
+    "snippet": "The move deepened the idea that a Vietnam-era law, which says congressionally unauthorized deployments into “hostilities” must end after 60 days, does not appl…",
+    "lead": "The move deepened the idea that a Vietnam-era law, which says congressionally unauthorized deployments into “hostilities” must end after 60 days, does not apply to airstrike campaigns.",
+    "events": [
+      {
+        "title": "War Powers Law Does Not Apply to Trump’s Boat Strikes, Administration Says",
+        "summary": "The move deepened the idea that a Vietnam-era law, which says congressionally unauthorized deployments into “hostilities” must end after 60 days, does not apply to airstrike campaigns.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/01/us/politics/trump-boat-attacks-war-powers.html"
+      },
+      {
+        "title": "Tracking the Early Vote in New York, New Jersey and Virginia",
+        "summary": "See the age breakdown in New York City and the partisanship in New Jersey and Virginia of the voters who have cast ballots so far.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/31/upshot/early-voters-2025-election.html"
+      },
+      {
+        "title": "Masih Alinejad says 'justice is beautiful' after sentencing of men who tried to kill her",
+        "summary": "Iranian activist Masih Alinejad joins Meet the Press NOW after a federal judge sentences two men hired by the Iranian regime to 25 years in prison for plotting to assassinate her in 2022.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/meet-the-press/video/masih-alinejad-says-justice-is-beautiful-after-sentencing-of-men-who-tried-to-kill-her-251131461717"
+      }
+    ]
   }
 ]
