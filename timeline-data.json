@@ -1182,5 +1182,34 @@
         "url": "https://www.nytimes.com/2025/10/29/business/trump-toyota-10-billion.html"
       }
     ]
+  },
+  {
+    "id": "2025-11-03",
+    "dateLabel": "Nov 3, 2025",
+    "weekday": "Monday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Trump Doubles Down on Nuclear Tests. His Energy Secretary Differs.",
+    "snippet": "President Trump and one of his top cabinet officials are sending mixed messages on how the U.S. government is handling one of the most destructive weapons in t…",
+    "lead": "President Trump and one of his top cabinet officials are sending mixed messages on how the U.S. government is handling one of the most destructive weapons in the world.",
+    "events": [
+      {
+        "title": "Trump Doubles Down on Nuclear Tests. His Energy Secretary Differs.",
+        "summary": "President Trump and one of his top cabinet officials are sending mixed messages on how the U.S. government is handling one of the most destructive weapons in the world.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/03/us/politics/trump-nuclear-tests-energy-secretary.html"
+      },
+      {
+        "title": "Trump hosts tele-rallies for Virginia and New Jersey candidates on election eve",
+        "summary": "The president spoke highly of New Jersey gubernatorial candidate Jack Ciattarelli but did not mention Virginia GOP nominee Winsome Earle-Sears by name.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/elections/trump-hosts-tele-rallies-virginia-new-jersey-candidates-election-eve-rcna241690"
+      },
+      {
+        "title": "Trump’s Tariffs and Push Against Limits Face Election and Court Tests",
+        "summary": "President Trump has a lot riding on the results of Tuesday’s elections, his tariffs case at the Supreme Court and the future of the government shutdown.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/03/us/politics/trump-mamdani-tariffs-shutdown.html"
+      }
+    ]
   }
 ]
