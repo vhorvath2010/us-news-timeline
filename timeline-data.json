@@ -1184,6 +1184,93 @@
     ]
   },
   {
+    "id": "2025-10-30",
+    "dateLabel": "Oct 30, 2025",
+    "weekday": "Thursday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Trump administration limits refugee admissions to lowest on record",
+    "snippet": "The Trump administration dramatically slashed the refugee admissions cap for the new fiscal year starting this month at 7,500, the lowest on record, according…",
+    "lead": "The Trump administration dramatically slashed the refugee admissions cap for the new fiscal year starting this month at 7,500, the lowest on record, according to a Federal Register memo posted Thursday",
+    "events": [
+      {
+        "title": "Trump administration limits refugee admissions to lowest on record",
+        "summary": "The Trump administration dramatically slashed the refugee admissions cap for the new fiscal year starting this month at 7,500, the lowest on record, according to a Federal Register memo posted Thursd…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/trump-administration/trump-administration-sets-refugee-admissions-fiscal-2026-lowest-record-rcna241009"
+      },
+      {
+        "title": "In China Truce on Tariffs and Rare Earths, National Security Controls Are Bargaining Chip",
+        "summary": "Some analysts say Beijing won a major victory in its trade talks: Getting the U.S. to withdraw a national security measure that previously was not under discussion.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/30/us/politics/china-trump-trade-security-chips-minerals.html"
+      },
+      {
+        "title": "Trump and Xi Ease Off the Trade War, but New Nuclear Threat Brings a Chill",
+        "summary": "The two leaders reached an agreement on fentanyl, some tariffs and rare earths, at least for a year. But even as the global trade picture cleared a little, Mr. Trump spurred new worries about nuclear…",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/30/us/politics/trump-xi-trade-meeting.html"
+      }
+    ]
+  },
+  {
+    "id": "2025-10-31",
+    "dateLabel": "Oct 31, 2025",
+    "weekday": "Friday",
+    "descriptor": "Top Stories",
+    "topHeadline": "White House Limits Reporters' Access to Press Secretary's Office",
+    "snippet": "The move broke from generations of precedent and added to the Trump administration's growing list of restraints on the news media.",
+    "lead": "The move broke from generations of precedent and added to the Trump administration's growing list of restraints on the news media.",
+    "events": [
+      {
+        "title": "White House Limits Reporters' Access to Press Secretary's Office",
+        "summary": "The move broke from generations of precedent and added to the Trump administration's growing list of restraints on the news media.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/31/us/politics/trump-white-house-press.html"
+      },
+      {
+        "title": "Mexico Winds Down Search for Survivor of U.S. Boat Strike",
+        "summary": "The Pentagon said one person survived a U.S. military strike on a boat in the Pacific, but after searching for days, Mexican officials are about to give up.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/31/us/politics/us-boat-strike-survivor.html"
+      },
+      {
+        "title": "Immigration Agents Clash With Chicago-Area Residents on Halloween",
+        "summary": "The state's governor had called for a pause in the federal immigration crackdown over the Halloween weekend, citing concerns for children's safety.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/31/us/politics/chicago-ice-immigration-agents.html"
+      }
+    ]
+  },
+  {
+    "id": "2025-11-01",
+    "dateLabel": "Nov 1, 2025",
+    "weekday": "Saturday",
+    "descriptor": "Top Stories",
+    "topHeadline": "War Powers Law Does Not Apply to Trump's Boat Strikes, Administration Says",
+    "snippet": "The move deepened the idea that a Vietnam-era law, which says congressionally unauthorized deployments into \"hostilities\" must end after 60 days, does not appl…",
+    "lead": "The move deepened the idea that a Vietnam-era law, which says congressionally unauthorized deployments into \"hostilities\" must end after 60 days, does not apply to airstrike campaigns.",
+    "events": [
+      {
+        "title": "War Powers Law Does Not Apply to Trump's Boat Strikes, Administration Says",
+        "summary": "The move deepened the idea that a Vietnam-era law, which says congressionally unauthorized deployments into \"hostilities\" must end after 60 days, does not apply to airstrike campaigns.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/01/us/politics/trump-boat-attacks-war-powers.html"
+      },
+      {
+        "title": "Tracking the Early Vote in New York, New Jersey and Virginia",
+        "summary": "See the age breakdown in New York City and the partisanship in New Jersey and Virginia of the voters who have cast ballots so far.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/10/31/upshot/early-voters-2025-election.html"
+      },
+      {
+        "title": "Masih Alinejad says 'justice is beautiful' after sentencing of men who tried to kill her",
+        "summary": "Iranian activist Masih Alinejad joins Meet the Press NOW after a federal judge sentences two men hired by the Iranian regime to 25 years in prison for plotting to assassinate her in 2022.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/meet-the-press/video/masih-alinejad-says-justice-is-beautiful-after-sentencing-of-men-who-tried-to-kill-her-251131461717"
+      }
+    ]
+  },
+  {
     "id": "2025-11-02",
     "dateLabel": "Nov 2, 2025",
     "weekday": "Sunday",
@@ -1209,6 +1296,10 @@
         "summary": "Few places have felt the effects as palpably as the U.S. attorney’s office in Washington, which is deeply enmeshed in the workings of government and has filed criminal cases against President Trump.",
         "source": "New York Times",
         "url": "https://www.nytimes.com/2025/11/02/us/politics/trump-pirro-washington-prosecutors.html"
+      }
+    ]
+  },
+  {
     "id": "2025-11-03",
     "dateLabel": "Nov 3, 2025",
     "weekday": "Monday",
