@@ -1327,5 +1327,34 @@
         "url": "https://www.nytimes.com/2025/11/03/us/politics/trump-mamdani-tariffs-shutdown.html"
       }
     ]
+  },
+  {
+    "id": "2025-11-07",
+    "dateLabel": "Nov 7, 2025",
+    "weekday": "Friday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Judge Permanently Blocks National Guard Deployments to Portland for ICE Protests",
+    "snippet": "With her temporary block expiring, Judge Karin Immergut said the Trump administration had failed to prove that protesters were hampering President Trump’s poli…",
+    "lead": "With her temporary block expiring, Judge Karin Immergut said the Trump administration had failed to prove that protesters were hampering President Trump’s policies.",
+    "events": [
+      {
+        "title": "Judge Permanently Blocks National Guard Deployments to Portland for ICE Protests",
+        "summary": "With her temporary block expiring, Judge Karin Immergut said the Trump administration had failed to prove that protesters were hampering President Trump’s policies.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/07/us/politics/portland-oregon-national-guard.html"
+      },
+      {
+        "title": "Trump Administration Appeals to Supreme Court to Block Order to Pay Full SNAP Benefits",
+        "summary": "The legal wrangling played out as a growing number of states said that they were releasing full food stamp benefits to their residents anyway.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/07/us/politics/trump-court-food-stamps.html"
+      },
+      {
+        "title": "Nancy Pelosi’s Legacy as a Powerful Speaker in a Fractious House",
+        "summary": "The first female speaker of the House may be the last to truly rule the increasingly unruly chamber.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/07/us/politics/nancy-pelosi-house-speaker.html"
+      }
+    ]
   }
 ]
