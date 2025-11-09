@@ -1327,5 +1327,34 @@
         "url": "https://www.nytimes.com/2025/11/03/us/politics/trump-mamdani-tariffs-shutdown.html"
       }
     ]
+  },
+  {
+    "id": "2025-11-08",
+    "dateLabel": "Nov 8, 2025",
+    "weekday": "Saturday",
+    "descriptor": "Top Stories",
+    "topHeadline": "A Timeline of the Legal Saga Surrounding SNAP Payments",
+    "snippet": "Weeks of uncertainty during the longest government shutdown in American history have left some states struggling to issue payments to food stamp recipients.",
+    "lead": "Weeks of uncertainty during the longest government shutdown in American history have left some states struggling to issue payments to food stamp recipients.",
+    "events": [
+      {
+        "title": "A Timeline of the Legal Saga Surrounding SNAP Payments",
+        "summary": "Weeks of uncertainty during the longest government shutdown in American history have left some states struggling to issue payments to food stamp recipients.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/08/us/politics/snap-payments-timeline.html"
+      },
+      {
+        "title": "Trump Gives Hungary a Reprieve on Sanctions After Meeting With Orban",
+        "summary": "The United States has imposed sanctions on nations buying Russian oil, but President Viktor Orban successfully argued that Hungary had few other options.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/08/us/politics/trump-gives-hungarys-orban-reprieve-on-sanctions-after-meeting.html"
+      },
+      {
+        "title": "Gavin Newsom, Eyeing 2028, Tries to Mess With Texas",
+        "summary": "Celebrating his recent redistricting victory, the California governor swooped into a state led by a Republican rival and sent the latest signal about his presidential ambitions.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/08/us/politics/newsom-2028-texas-rally-abbott-trump.html"
+      }
+    ]
   }
 ]
