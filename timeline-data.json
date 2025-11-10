@@ -1327,5 +1327,34 @@
         "url": "https://www.nytimes.com/2025/11/03/us/politics/trump-mamdani-tariffs-shutdown.html"
       }
     ]
+  },
+  {
+    "id": "2025-11-09",
+    "dateLabel": "Nov 9, 2025",
+    "weekday": "Sunday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Democratic Defectors Relent on Shutdown, Backing Bill to Reopen",
+    "snippet": "A small but critical group of Democrats were said to support legislation to fund the government, providing the votes to eventually end the shutdown.",
+    "lead": "A small but critical group of Democrats were said to support legislation to fund the government, providing the votes to eventually end the shutdown.",
+    "events": [
+      {
+        "title": "Democratic Defectors Relent on Shutdown, Backing Bill to Reopen",
+        "summary": "A small but critical group of Democrats were said to support legislation to fund the government, providing the votes to eventually end the shutdown.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/09/us/politics/government-shutdown-senate-vote.html"
+      },
+      {
+        "title": "Senators reach tentative deal to end the government shutdown",
+        "summary": "Senators struck an agreement to end the lengthy U.S. government shutdown, three sources with direct knowledge of the details told NBC News.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/congress/senators-reach-tentative-deal-end-government-shutdown-rcna242401"
+      },
+      {
+        "title": "Sean Duffy Juggles Shutdown Roles on Flight Safety and Trump Support",
+        "summary": "With near-daily TV appearances, the transportation secretary has emerged as the face of the Trump administration amid the shutdown.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/09/us/politics/duffy-faa-air-travel-shutdown.html"
+      }
+    ]
   }
 ]
