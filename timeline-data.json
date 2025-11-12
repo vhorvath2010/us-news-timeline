@@ -1356,5 +1356,34 @@
         "url": "https://www.nytimes.com/2025/11/07/us/politics/nancy-pelosi-house-speaker.html"
       }
     ]
+  },
+  {
+    "id": "2025-11-11",
+    "dateLabel": "Nov 11, 2025",
+    "weekday": "Tuesday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Aircraft Carrier Moves Into the Caribbean as U.S. Confronts Venezuela",
+    "snippet": "The carrier’s arrival bolsters the extensive deployment of American forces in the region. Britain has ceased sharing some intelligence with the United States b…",
+    "lead": "The carrier’s arrival bolsters the extensive deployment of American forces in the region. Britain has ceased sharing some intelligence with the United States because of concerns over boat strikes.",
+    "events": [
+      {
+        "title": "Aircraft Carrier Moves Into the Caribbean as U.S. Confronts Venezuela",
+        "summary": "The carrier’s arrival bolsters the extensive deployment of American forces in the region. Britain has ceased sharing some intelligence with the United States because of concerns over boat strikes.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/11/us/politics/aircraft-carrier-moves-into-the-caribbean-as-us-confronts-venezuela.html"
+      },
+      {
+        "title": "Johnson to Seat Grijalva, Seven Weeks After She Was Elected",
+        "summary": "Speaker Mike Johnson had refused to swear in Representative-elect Adelita Grijalva, a Democrat of Arizona, claiming he lacked the power to do so.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/11/us/politics/adelita-grijalva-swearing-in-congress.html"
+      },
+      {
+        "title": "Bipartisan funding bill would allow senators to sue over government searches of their phone records",
+        "summary": "The provision pertains to eight senators who had their phone records obtained without their knowledge during a probe into the 2021 riot at the U.S. Capitol.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/congress/bipartisan-funding-bill-let-senators-sue-searches-phone-records-rcna243344"
+      }
+    ]
   }
 ]
