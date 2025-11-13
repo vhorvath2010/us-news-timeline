@@ -1385,5 +1385,34 @@
         "url": "https://www.nbcnews.com/politics/congress/bipartisan-funding-bill-let-senators-sue-searches-phone-records-rcna243344"
       }
     ]
+  },
+  {
+    "id": "2025-11-12",
+    "dateLabel": "Nov 12, 2025",
+    "weekday": "Wednesday",
+    "descriptor": "Top Stories",
+    "topHeadline": "House Passes Bill to End Government Shutdown, Sending It to Trump",
+    "snippet": "The 222-to-209 House vote sent the legislation to President Trump’s desk, heralding an end to the shutdown after 43 days.",
+    "lead": "The 222-to-209 House vote sent the legislation to President Trump’s desk, heralding an end to the shutdown after 43 days.",
+    "events": [
+      {
+        "title": "House Passes Bill to End Government Shutdown, Sending It to Trump",
+        "summary": "The 222-to-209 House vote sent the legislation to President Trump’s desk, heralding an end to the shutdown after 43 days.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/12/us/politics/government-shutdown-vote-trump.html"
+      },
+      {
+        "title": "After Trump Split, Epstein Said He Could ‘Take Him Down’",
+        "summary": "Jeffrey Epstein cast himself as a Trump insider and wanted to leverage potentially damaging information about the president and his business dealings, according to emails with associates.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/12/us/epstein-emails-trump.html"
+      },
+      {
+        "title": "Johnson blames Democrats for 'pointless' shutdown",
+        "summary": "Speaker Mike Johnson, R-La., blames the Democrats for the longest shutdown in United States history after the House voted to reopen the federal government. Johnson accuses Democratic politicians of u…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/now/video/-johnson-blames-democrats-for-pointless-shutdown-251936837530"
+      }
+    ]
   }
 ]
