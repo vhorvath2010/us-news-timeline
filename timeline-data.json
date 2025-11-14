@@ -1414,5 +1414,34 @@
         "url": "https://www.nbcnews.com/now/video/-johnson-blames-democrats-for-pointless-shutdown-251936837530"
       }
     ]
+  },
+  {
+    "id": "2025-11-13",
+    "dateLabel": "Nov 13, 2025",
+    "weekday": "Thursday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Justice Dept. Memo Blessing Boat Strikes Is Said to Rely on Trump’s Claims About Cartels",
+    "snippet": "Accounts of a secret Justice Department memo offer a window into how administration lawyers approved the president’s desired course of action.",
+    "lead": "Accounts of a secret Justice Department memo offer a window into how administration lawyers approved the president’s desired course of action.",
+    "events": [
+      {
+        "title": "Justice Dept. Memo Blessing Boat Strikes Is Said to Rely on Trump’s Claims About Cartels",
+        "summary": "Accounts of a secret Justice Department memo offer a window into how administration lawyers approved the president’s desired course of action.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/13/us/politics/boat-strikes-doj-memo-trump.html"
+      },
+      {
+        "title": "Republicans Tried to Squelch the Epstein Furor. Instead, They Fed It.",
+        "summary": "A House investigation that the G.O.P. has tried to use to deflect calls for more transparency has yielded striking revelations that have only fueled the Epstein saga.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/13/us/politics/republicans-epstein-trump-house.html"
+      },
+      {
+        "title": "Rep. Chuy Garcia's ploy to hand-pick successor sparks Democratic infighting",
+        "summary": "WASHINGTON — Democratic Rep. Jesus \"Chuy\" Garcia’s ploy to hand-pick his successor for his Illinois seat has sparked a war of words between congressional Democrats.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/congress/rep-chuy-garcias-ploy-hand-pick-successor-sparks-democratic-infighting-rcna243762"
+      }
+    ]
   }
 ]
