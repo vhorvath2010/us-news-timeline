@@ -1443,5 +1443,34 @@
         "url": "https://www.nbcnews.com/politics/congress/rep-chuy-garcias-ploy-hand-pick-successor-sparks-democratic-infighting-rcna243762"
       }
     ]
+  },
+  {
+    "id": "2025-11-15",
+    "dateLabel": "Nov 15, 2025",
+    "weekday": "Saturday",
+    "descriptor": "Top Stories",
+    "topHeadline": "How to Make Sense of Law Enforcement in the Streets",
+    "snippet": "The variety of federal forces deployed to support President Trump’s mass deportation campaign and anticrime efforts continues to expand. Often, it can be diffi…",
+    "lead": "The variety of federal forces deployed to support President Trump’s mass deportation campaign and anticrime efforts continues to expand. Often, it can be difficult for the public to tell them apart, or to understand what powers each agency has.",
+    "events": [
+      {
+        "title": "How to Make Sense of Law Enforcement in the Streets",
+        "summary": "The variety of federal forces deployed to support President Trump’s mass deportation campaign and anticrime efforts continues to expand. Often, it can be difficult for the public to tell them apart,…",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/video/us/politics/100000010484295/how-to-make-sense-of-law-enforcement-in-the-streets.html"
+      },
+      {
+        "title": "President Trump feuds with Rep. Marjorie Taylor Greene over Epstein files",
+        "summary": "President Donald Trump faces new backlash from a former ally, Rep. Marjorie Taylor Greene, R-Ga., for not releasing the Jeffrey Epstein files. Taylor Greene, who was once one of President Trump's mos…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/video/president-trump-feuds-with-rep-marjorie-taylor-greene-over-epstein-files-252131909737"
+      },
+      {
+        "title": "Michelle Obama says the U.S. is 'not ready' for a woman president",
+        "summary": "Former first lady Michelle Obama said in a conversation published to her YouTube page Friday that the country is not ready for a woman president, adding that the U.S. has “a lot of growing up to do.”…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/politics-news/michelle-obama-says-us-not-ready-woman-president-rcna244136"
+      }
+    ]
   }
 ]
