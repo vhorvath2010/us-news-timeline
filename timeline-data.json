@@ -1472,5 +1472,34 @@
         "url": "https://www.nytimes.com/2025/11/14/us/politics/matt-gaetz-washington-trump.html"
       }
     ]
+  },
+  {
+    "id": "2025-11-16",
+    "dateLabel": "Nov 16, 2025",
+    "weekday": "Sunday",
+    "descriptor": "Top Stories",
+    "topHeadline": "U.S. Airport Restrictions to End Monday",
+    "snippet": "The administrator of the F.A.A. said that attendance among air traffic controllers had improved. New data suggested that some airlines had not been complying w…",
+    "lead": "The administrator of the F.A.A. said that attendance among air traffic controllers had improved. New data suggested that some airlines had not been complying with the flight cuts in recent days.",
+    "events": [
+      {
+        "title": "U.S. Airport Restrictions to End Monday",
+        "summary": "The administrator of the F.A.A. said that attendance among air traffic controllers had improved. New data suggested that some airlines had not been complying with the flight cuts in recent days.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/16/us/politics/faa-ends-airport-restrictions-monday.html"
+      },
+      {
+        "title": "Latest U.S. Strike on Boat in Pacific Kills 3, Southern Command Says",
+        "summary": "The United States has carried out at least 21 strikes on boats the Trump administration accuses of smuggling drugs, killing at least 83 people.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/16/us/politics/strike-boat-pacific-caribbean.html"
+      },
+      {
+        "title": "Fired Scholars and Big Grants to Favored Projects: Inside Trump’s N.E.H.",
+        "summary": "Some Democrats and supporters of the National Endowment for the Humanities are questioning what they see as gutted procedures and a tilt toward handpicked projects.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/15/arts/national-endowment-humanities-trump.html"
+      }
+    ]
   }
 ]
