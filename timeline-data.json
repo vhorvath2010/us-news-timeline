@@ -1501,5 +1501,34 @@
         "url": "https://www.nytimes.com/2025/11/15/arts/national-endowment-humanities-trump.html"
       }
     ]
+  },
+  {
+    "id": "2025-11-17",
+    "dateLabel": "Nov 17, 2025",
+    "weekday": "Monday",
+    "descriptor": "Top Stories",
+    "topHeadline": "House poised to pass a bill to force the release of the Epstein files in a bipartisan vote",
+    "snippet": "WASHINGTON — The House is poised to vote overwhelmingly Tuesday for legislation to compel the Justice Department to release all its records related to the late…",
+    "lead": "WASHINGTON — The House is poised to vote overwhelmingly Tuesday for legislation to compel the Justice Department to release all its records related to the late convicted sex offender Jeffrey Epstein, a major victory for the lawmakers in both parties who've been leading the push…",
+    "events": [
+      {
+        "title": "House poised to pass a bill to force the release of the Epstein files in a bipartisan vote",
+        "summary": "WASHINGTON — The House is poised to vote overwhelmingly Tuesday for legislation to compel the Justice Department to release all its records related to the late convicted sex offender Jeffrey Epstein,…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/congress/house-bill-force-release-epstein-files-bipartisan-vote-rcna244301"
+      },
+      {
+        "title": "Judge Says Justice Dept. May Have Committed Misconduct in Comey Case",
+        "summary": "The magistrate judge raised the question of whether “government misconduct” in the case might require dismissing the charges against the former F.B.I. director, James B. Comey, altogether.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/17/us/politics/comey-justice-department-misconduct.html"
+      },
+      {
+        "title": "Trump Has the Power to Release the Epstein Files. Why Doesn’t He?",
+        "summary": "The president has reversed himself and encouraged lawmakers to vote for compelling the Justice Department to turn over investigation documents, but he never really needed their approval.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/17/us/politics/trump-epstein-files-congress.html"
+      }
+    ]
   }
 ]
