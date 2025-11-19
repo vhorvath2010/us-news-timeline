@@ -1530,5 +1530,34 @@
         "url": "https://www.nytimes.com/2025/11/17/us/politics/trump-epstein-files-congress.html"
       }
     ]
+  },
+  {
+    "id": "2025-11-18",
+    "dateLabel": "Nov 18, 2025",
+    "weekday": "Tuesday",
+    "descriptor": "Top Stories",
+    "topHeadline": "For Trump, Epstein Is the Story That Won’t Go Away",
+    "snippet": "President Trump is being held captive to a news cycle he can’t avoid or defeat when it comes to the convicted sex offender Jeffrey Epstein.",
+    "lead": "President Trump is being held captive to a news cycle he can’t avoid or defeat when it comes to the convicted sex offender Jeffrey Epstein.",
+    "events": [
+      {
+        "title": "For Trump, Epstein Is the Story That Won’t Go Away",
+        "summary": "President Trump is being held captive to a news cycle he can’t avoid or defeat when it comes to the convicted sex offender Jeffrey Epstein.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/18/us/politics/trump-epstein-files.html"
+      },
+      {
+        "title": "Here’s Who’s Attending Trump’s Dinner for the Saudi Crown Prince: Elon Musk, Cristiano Ronaldo and more.",
+        "summary": "The New York Times identified some of the guests invited to President Trump’s dinner for Crown Prince Mohammed bin Salman of Saudi Arabia.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/18/us/politics/trump-saudi-dinner-guests.html"
+      },
+      {
+        "title": "Trump Berates Mary Bruce of ABC News After Question About Jamal Khashoggi",
+        "summary": "The president grew frustrated with Mary Bruce of ABC News over her questions during his meeting with the Saudi crown price. On Friday, he told a Bloomberg News reporter, “Quiet, piggy.”",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/18/business/media/trump-reporter-khashoggi-saudis.html"
+      }
+    ]
   }
 ]
