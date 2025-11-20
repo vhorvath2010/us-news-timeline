@@ -1559,5 +1559,34 @@
         "url": "https://www.nytimes.com/2025/11/18/business/media/trump-reporter-khashoggi-saudis.html"
       }
     ]
+  },
+  {
+    "id": "2025-11-19",
+    "dateLabel": "Nov 19, 2025",
+    "weekday": "Wednesday",
+    "descriptor": "Top Stories",
+    "topHeadline": "House Votes to Kill Bill Allowing Senators to Sue Government",
+    "snippet": "The measure has prompted a backlash, but the top Senate Republican appeared inclined to preserve it, arguing that it would protect the body against investigato…",
+    "lead": "The measure has prompted a backlash, but the top Senate Republican appeared inclined to preserve it, arguing that it would protect the body against investigatory overreach.",
+    "events": [
+      {
+        "title": "House Votes to Kill Bill Allowing Senators to Sue Government",
+        "summary": "The measure has prompted a backlash, but the top Senate Republican appeared inclined to preserve it, arguing that it would protect the body against investigatory overreach.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/19/us/politics/house-votes-to-kill-bill-allowing-senators-to-sue-government.html"
+      },
+      {
+        "title": "Trump Approves the Epstein Files Release, but Some May Be Withheld",
+        "summary": "The legislation has significant exceptions that could mean many documents could stay confidential.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/19/us/politics/trump-epstein-files-loopholes.html"
+      },
+      {
+        "title": "What's in the 'Epstein files' — and when they might become public",
+        "summary": "The Epstein files, or documents from the FBI and DOJ investigation into Jeffrey Epstein and Ghislaine Maxwell, are slated to become public in the next 30 days.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/justice-department/what-in-epstein-files-when-release-house-bill-vote-trump-sign-rcna244799"
+      }
+    ]
   }
 ]
