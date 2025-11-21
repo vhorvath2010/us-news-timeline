@@ -1588,5 +1588,34 @@
         "url": "https://www.nbcnews.com/politics/justice-department/what-in-epstein-files-when-release-house-bill-vote-trump-sign-rcna244799"
       }
     ]
+  },
+  {
+    "id": "2025-11-20",
+    "dateLabel": "Nov 20, 2025",
+    "weekday": "Thursday",
+    "descriptor": "Top Stories",
+    "topHeadline": "CIA Kryptos Auction: Anonymous Bidder Pays $770,000 for Secret to Decode Sculpture",
+    "snippet": "The encoded panels’ creator, Jim Sanborn, sought to unburden himself of the puzzle, and then discovered before an auction he had archived its solution in the S…",
+    "lead": "The encoded panels’ creator, Jim Sanborn, sought to unburden himself of the puzzle, and then discovered before an auction he had archived its solution in the Smithsonian.",
+    "events": [
+      {
+        "title": "CIA Kryptos Auction: Anonymous Bidder Pays $770,000 for Secret to Decode Sculpture",
+        "summary": "The encoded panels’ creator, Jim Sanborn, sought to unburden himself of the puzzle, and then discovered before an auction he had archived its solution in the Smithsonian.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/20/science/kryptos-cia-auction-sculpture.html"
+      },
+      {
+        "title": "The F.C.C. chair questioned the BBC over edits to a Trump speech.",
+        "summary": "The F.C.C. chair questioned the BBC over edits to a Trump speech.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/live/2025/11/20/us/trump-news-epstein-cheney/the-fcc-chair-questioned-the-bbc-over-trump-speech-edits"
+      },
+      {
+        "title": "Trump Calls Democrats’ Military Video ‘Seditious Behavior, Punishable by Death’",
+        "summary": "President Trump was reacting to a video that reminded members of the military that they are not supposed to obey illegal orders.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/20/us/politics/trump-democrats-sedition-death-punishment.html"
+      }
+    ]
   }
 ]
