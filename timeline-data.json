@@ -1617,5 +1617,34 @@
         "url": "https://www.nytimes.com/2025/11/20/us/politics/trump-democrats-sedition-death-punishment.html"
       }
     ]
+  },
+  {
+    "id": "2025-11-21",
+    "dateLabel": "Nov 21, 2025",
+    "weekday": "Friday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Supreme Court temporarily reinstates Texas Republicans' redrawn congressional map",
+    "snippet": "Supreme Court Justice Samuel Alito on Friday temporarily permitted Texas to use Republicans' redrawn congressional map that a federal court blocked earlier thi…",
+    "lead": "Supreme Court Justice Samuel Alito on Friday temporarily permitted Texas to use Republicans' redrawn congressional map that a federal court blocked earlier this week",
+    "events": [
+      {
+        "title": "Supreme Court temporarily reinstates Texas Republicans' redrawn congressional map",
+        "summary": "Supreme Court Justice Samuel Alito on Friday temporarily permitted Texas to use Republicans' redrawn congressional map that a federal court blocked earlier this week",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-temporarily-reinstates-texas-redrawn-congressional-map-rcna245276"
+      },
+      {
+        "title": "Marjorie Taylor Greene Says She Plans to Resign in January",
+        "summary": "Ms. Greene, who was elected in 2020, positioned herself as a die-hard Trump supporter until a series of recent ruptures with the president, who recently unendorsed her.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/21/us/politics/marjorie-taylor-greene-resigns.html"
+      },
+      {
+        "title": "Mark Mellman, 70, Dies; Helped Democrats Understand Their Voters",
+        "summary": "A pollster and political strategist, he was a key figure in John Kerry’s 2004 presidential campaign and used his prominence to speak out in defense of Israel.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/21/us/politics/mark-mellman-dead.html"
+      }
+    ]
   }
 ]
