@@ -1646,5 +1646,34 @@
         "url": "https://www.nytimes.com/2025/11/21/us/politics/mark-mellman-dead.html"
       }
     ]
+  },
+  {
+    "id": "2025-11-22",
+    "dateLabel": "Nov 22, 2025",
+    "weekday": "Saturday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Marjorie Taylor Greene’s Exit Deals a Blow to Republicans’ Majority in Congress",
+    "snippet": "Representative Marjorie Taylor Greene’s sudden resignation underscored the fragility of the G.O.P. majority, and exposed deep discontent on the right going int…",
+    "lead": "Representative Marjorie Taylor Greene’s sudden resignation underscored the fragility of the G.O.P. majority, and exposed deep discontent on the right going into the midterm elections.",
+    "events": [
+      {
+        "title": "Marjorie Taylor Greene’s Exit Deals a Blow to Republicans’ Majority in Congress",
+        "summary": "Representative Marjorie Taylor Greene’s sudden resignation underscored the fragility of the G.O.P. majority, and exposed deep discontent on the right going into the midterm elections.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene-republicans.html"
+      },
+      {
+        "title": "For Marjorie Taylor Greene, a Rough Education in MAGA Politics",
+        "summary": "The Georgia congresswoman strove to be both the ultimate Trump warrior and to be taken seriously. She wound up in political exile.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene.html"
+      },
+      {
+        "title": "Trump says 28-point Ukraine peace plan isn’t his ‘final offer’",
+        "summary": "President Donald Trump told reporters outside the White House that his 28-point Russia-Ukraine peace plan is not his “final offer” after he gave Ukraine’s President Volodymyr Zelenskyy until Thanksgi…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/video/trump-says-28-point-ukraine-peace-plan-isn-t-his-final-offer-252686917955"
+      }
+    ]
   }
 ]
