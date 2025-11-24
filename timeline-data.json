@@ -1646,5 +1646,34 @@
         "url": "https://www.nytimes.com/2025/11/21/us/politics/mark-mellman-dead.html"
       }
     ]
+  },
+  {
+    "id": "2025-11-23",
+    "dateLabel": "Nov 23, 2025",
+    "weekday": "Sunday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Jamil Abdullah Al-Amin, Black Power Activist Known as H. Rap Brown, Dies at 82",
+    "snippet": "A charismatic orator in the 1960s, he called for armed resistance to white oppression. As a Muslim cleric, he was convicted of murder in 2000 and died in deten…",
+    "lead": "A charismatic orator in the 1960s, he called for armed resistance to white oppression. As a Muslim cleric, he was convicted of murder in 2000 and died in detention.",
+    "events": [
+      {
+        "title": "Jamil Abdullah Al-Amin, Black Power Activist Known as H. Rap Brown, Dies at 82",
+        "summary": "A charismatic orator in the 1960s, he called for armed resistance to white oppression. As a Muslim cleric, he was convicted of murder in 2000 and died in detention.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/23/us/h-rap-brown-dead.html"
+      },
+      {
+        "title": "New fallout after Rep. Marjorie Taylor Greene announces plans to resign",
+        "summary": "Rep. Marjorie Taylor Greene (R-GA) said she does not plan to run for president in 2028 after she announced her plans to resign from Congress in January 2026. It comes after Greene had been locked in…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/video/new-fallout-after-rep-marjorie-taylor-greene-announces-plans-to-resign-252792389889"
+      },
+      {
+        "title": "JFK's granddaughter Tatiana Schlossberg reveals terminal cancer diagnosis",
+        "summary": "Tatiana Schlossberg, the daughter of Caroline Kennedy and Edwin Schlossberg, and granddaughter of John F. Kennedy, has revealed her terminal cancer diagnosis in an essay published by The New Yorker o…",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/video/jfk-s-granddaughter-tatiana-schlossberg-reveals-terminal-cancer-diagnosis-252791877777"
+      }
+    ]
   }
 ]
