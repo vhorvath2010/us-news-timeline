@@ -1646,5 +1646,34 @@
         "url": "https://www.nytimes.com/2025/11/21/us/politics/mark-mellman-dead.html"
       }
     ]
+  },
+  {
+    "id": "2025-11-24",
+    "dateLabel": "Nov 24, 2025",
+    "weekday": "Monday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Trump Orders Construction of A.I. Platform to Use Troves of Government Data for Research",
+    "snippet": "The executive order signed on Monday directs the Department of Energy’s national laboratories to create the A.I. platform in partnership with A.I. companies.",
+    "lead": "The executive order signed on Monday directs the Department of Energy’s national laboratories to create the A.I. platform in partnership with A.I. companies.",
+    "events": [
+      {
+        "title": "Trump Orders Construction of A.I. Platform to Use Troves of Government Data for Research",
+        "summary": "The executive order signed on Monday directs the Department of Energy’s national laboratories to create the A.I. platform in partnership with A.I. companies.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/24/us/politics/trump-ai-executive-order.html"
+      },
+      {
+        "title": "Trump Is Considering a Push to Extend Obamacare Subsidies",
+        "summary": "President Trump has not made a final decision. But he is under pressure to address the cost of health care, which for many Americans will jump if the subsidies expire.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/24/us/politics/trump-obamacare-subsidies-health-care.html"
+      },
+      {
+        "title": "Schumer Faces Pushback From ‘Fight Club’ Group of Senate Democrats",
+        "summary": "A group of liberal senators is quietly challenging the minority leader over his approach to the midterms and President Trump, in a sign of the party’s deep frustration.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/24/us/politics/schumer-democrats-senate-fight-club.html"
+      }
+    ]
   }
 ]
