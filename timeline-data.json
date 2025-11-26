@@ -1646,5 +1646,34 @@
         "url": "https://www.nytimes.com/2025/11/21/us/politics/mark-mellman-dead.html"
       }
     ]
+  },
+  {
+    "id": "2025-11-25",
+    "dateLabel": "Nov 25, 2025",
+    "weekday": "Tuesday",
+    "descriptor": "Top Stories",
+    "topHeadline": "U.S. Army secretary warned Ukraine of imminent defeat while pushing initial peace plan",
+    "snippet": "The meeting between Army secretary Dan Driscoll and the Ukrainians was the latest example of the rift inside the Trump administration about how to end the war.",
+    "lead": "The meeting between Army secretary Dan Driscoll and the Ukrainians was the latest example of the rift inside the Trump administration about how to end the war.",
+    "events": [
+      {
+        "title": "U.S. Army secretary warned Ukraine of imminent defeat while pushing initial peace plan",
+        "summary": "The meeting between Army secretary Dan Driscoll and the Ukrainians was the latest example of the rift inside the Trump administration about how to end the war.",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/white-house/us-army-secretary-warned-ukraine-imminent-defeat-pushing-initial-peace-rcna245704"
+      },
+      {
+        "title": "School Groups Sue to Stop Dismantling of the Education Department",
+        "summary": "The new complaint is aimed at changes the Trump administration would make to shift significant functions from the department to other federal agencies.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/25/us/politics/school-coalition-lawsuit-education-department.html"
+      },
+      {
+        "title": "Fears About A.I. Prompt Talks of Super PACs to Rein In the Industry",
+        "summary": "As artificial intelligence companies prepare to pour money into the midterm elections, some in the A.I. world are hatching plans of their own to curb the industry’s influence.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/25/us/politics/ai-super-pac-anthropic.html"
+      }
+    ]
   }
 ]
