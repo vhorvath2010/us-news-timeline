@@ -1646,5 +1646,34 @@
         "url": "https://www.nytimes.com/2025/11/21/us/politics/mark-mellman-dead.html"
       }
     ]
+  },
+  {
+    "id": "2025-11-26",
+    "dateLabel": "Nov 26, 2025",
+    "weekday": "Wednesday",
+    "descriptor": "Top Stories",
+    "topHeadline": "Here’s the latest.",
+    "snippet": "Dozens of emergency responders and police vehicles were amassed at the corner of the shooting.",
+    "lead": "Dozens of emergency responders and police vehicles were amassed at the corner of the shooting.",
+    "events": [
+      {
+        "title": "Here’s the latest.",
+        "summary": "Dozens of emergency responders and police vehicles were amassed at the corner of the shooting.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/live/2025/11/26/us/national-guard-shooting-dc/dc-shooting-national-guard"
+      },
+      {
+        "title": "Leaked Transcript of Witkoff Call Shows U.S. Deference to Russia",
+        "summary": "The White House envoy’s conversation suggests that President Trump is determined to make a deal to end the war in Ukraine, even if it is mostly on Russia’s terms.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/26/us/politics/witkoff-leaked-transcript-deference-russia.html"
+      },
+      {
+        "title": "Trump Orders 500 More National Guard Troops to D.C. After Shooting",
+        "summary": "The deployment also follows a monthslong debate about the role of the National Guard in American cities.",
+        "source": "New York Times",
+        "url": "https://www.nytimes.com/2025/11/26/us/politics/trump-national-guard-dc-shooting.html"
+      }
+    ]
   }
 ]
